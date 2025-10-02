@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Diagnóstico energético según ISO 50001',
+    Description:
+      'El contenido aborda los fundamentos esenciales de la gestión energética y los lineamientos de la norma ISO 50001, brindando herramientas para diagnosticar las variables críticas de consumo dentro de una organización. A partir de este diagnóstico, se trabaja en la formulación de métricas clave que permitan monitorear, evaluar y mejorar el desempeño energético. Se estudian distintas metodologías de cálculo e implementación, destacando su utilidad en el seguimiento y la mejora continua, así como en la toma de decisiones estratégicas orientadas a la eficiencia y sostenibilidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Tipos y formas de energía',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -45,13 +46,31 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Unidades de medida de la energía',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Conceptos fundamentales de eficiencia energética',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Identificación de variables de consumo energético',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Procesos consumidores de energía',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Caracterización del consumo energético',
         desarrolloContenidos: true,
       },
     ],
