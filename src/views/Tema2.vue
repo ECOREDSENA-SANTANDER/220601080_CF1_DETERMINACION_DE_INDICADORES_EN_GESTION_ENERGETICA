@@ -13,7 +13,7 @@
       .col-lg-11
         p Para abordar adecuadamente este tema, comenzaremos por familiarizarnos con las unidades fundamentales empleadas para cuantificar la energía y la potencia. Comprender estas unidades y sus relaciones es esencial para analizar datos de consumo energético, calcular indicadores y comunicar información técnica con precisión.
 
-    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+    .row.justify-content-start.mb-4(data-aos="fade-up")
       .col-sm-12.col-lg-10.col-12
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
@@ -64,7 +64,7 @@
       .col-lg-2.col-6.col-md-4
         img(src='@/assets/curso/Tema2/img04.svg', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
       .col-lg-2.d-none.d-lg-block
         img(src='@/assets/curso/Tema2/img05.svg', alt='')
       .col-lg-10
@@ -93,7 +93,7 @@
                     i.fas.fa-circle-play
 
     separador
-    #t_2_1.titulo-segundo.mb-5
+    #t_2_1.titulo-segundo.mb-5(data-aos="fade-up")
       h2 2.1. Conversión entre diferentes unidades de energía
 
     p.mb-4 Es importante poder convertir entre diferentes unidades de energía para comparar datos, realizar cálculos y entender informes técnicos. A continuación, se proporcionan algunos factores de conversión comunes:
