@@ -32,7 +32,7 @@
               p La eficiencia energética es un pilar fundamental para lograr un desarrollo sostenible, al equilibrar el crecimiento económico con la protección del medio ambiente.
 
 
-    .row.justify-content-center.align-items-center.mb-5.bgtema3.p-4
+    .row.justify-content-center.align-items-center.mb-2.bgtema3.p-4
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 26.
@@ -50,7 +50,7 @@
     p.mb-5 La gestión energética es un proceso sistemático y continuo que una organización implementa para optimizar el uso y el consumo de energía, buscando la eficiencia energética, la reducción de costos, la minimización del impacto ambiental y el cumplimiento de las regulaciones pertinentes. No se trata simplemente de reducir el consumo, sino de gestionar la energía de manera inteligente y estratégica en todas las actividades y procesos de la organización. Está estructurada en torno a los siguientes procesos: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-4
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Planificación")
             .col-md-12.mb-4.mb-md-0
@@ -69,7 +69,7 @@
         img(src='@/assets/curso/Tema3/img02.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1
+      .col-lg-1.col-4.mb-3
         img(src='@/assets/curso/Tema3/img03.svg', alt='')
       .col-lg-11
         p En esencia, la gestión energética busca integrar la consideración de la energía en la toma de decisiones de la organización, promoviendo una cultura de eficiencia y sostenibilidad en todos los niveles. Se basa en la recopilación y el análisis de datos, el establecimiento de objetivos realistas, la implementación de medidas de mejora y el seguimiento continuo del progreso para lograr un uso más eficiente y responsable de la energía. La norma ISO 50001 proporciona un marco reconocido internacionalmente para implementar un sistema de gestión de la energía eficaz.
@@ -107,8 +107,8 @@
 
     p.mb-4 ISO es una organización internacional no gubernamental e independiente que desarrolla y publica una amplia gama de normas internacionales para asegurar la calidad, seguridad y eficiencia de productos, servicios y sistemas. Su nombre proviene del griego “isos”, que significa “igual”, reflejando su objetivo de estandarización a nivel global. 
 
-    .row.justify-content-center.mb-4
-      .col-lg-5.bg10.p-4.align-content-center
+    .row.justify-content-center.mb-3
+      .col-lg-5.bg10.p-4.align-content-center.mb-4
         p Fundada en 1947, ISO cuenta con representaciones de organismos de normalización de numerosos países y ha publicado miles de normas que abarcan prácticamente todos los sectores, desde la tecnología hasta la gestión de la calidad y la protección ambiental. Estas normas son voluntarias, pero su adopción facilita el comercio internacional, mejora la confianza del consumidor y promueve las mejores prácticas en diversas industrias.
       .col-lg-3
         .titulo-sexto.color-acento-contenido
@@ -118,7 +118,7 @@
           img.mb-3(src='@/assets/curso/Tema3/fig28.svg', alt='Logotipo de la ISO (International Organization for Standardization). A la izquierda, aparece un globo con las letras “ISO” en grande dentro de un recuadro azul. A la derecha, el nombre completo de la organización escrito en inglés: International Organization for Standardization.')
       .col-lg-4
         .row.align-items-center
-          .col-lg-3.mb-3
+          .col-lg-3.mb-3.col-3
             img(src='@/assets/curso/Tema3/img04.svg', alt='')
           .col-lg-12
             p La ISO 50001 es una norma internacional desarrollada por la Organización Internacional de Normalización (ISO) que especifica los requisitos para establecer, implementar, mantener y mejorar un Sistema de Gestión de la Energía (SGEn). Su objetivo principal es permitir a las organizaciones seguir un enfoque sistemático para lograr la mejora continua de su desempeño energético, incluyendo la eficiencia energética, el uso y el consumo de energía.   
@@ -265,12 +265,18 @@
               .col-md-5
                 img(src='@/assets/curso/Tema3/6.png', alt='')
 
+    p.mb-4 Estos criterios proporcionan un marco estructurado para que las organizaciones gestionen su energía de manera sistemática, logrando mejoras en la eficiencia, reducción de costos y disminución del impacto ambiental.
 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 29.
+          span  Esquema de aplicación de ISO 50001
+        figure
+          img.mb-3(src='@/assets/curso/Tema3/fig29.svg', alt='Diagrama del ciclo de gestión energética basado en mejora continua. Incluye política, planificación, implementación, verificación, auditoría, acciones correctivas y revisión por la gerencia.')
+        figcaption Fuente: https://geoinnova.org/blog-territorio/iso-50001-sistema-de-gestion-energetica/
 
-
-
-
-
+    p.mb-4 La norma ISO 50001 es de tipo voluntaria, y al igual que otras normas ISO es genérica, por lo que puede ser aplicada a todas las organizaciones sin importar su tipo, tamaño o actividad. Sin embargo, como en todo proceso de implementación de un sistema de gestión, el apoyo y compromiso de la alta dirección es fundamental para asegurar la disponibilidad de recursos necesarios para el logro de los objetivos planteados.
 
 
 
