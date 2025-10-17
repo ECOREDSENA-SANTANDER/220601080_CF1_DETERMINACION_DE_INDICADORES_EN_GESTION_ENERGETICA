@@ -76,7 +76,7 @@
     .row.justify-content-center.align-items-center.mb-3.bgtema4.p-4(data-aos="fade-up")
       .col-lg-4.col-7.mb-3
         img(src="@/assets/curso/Tema4/img03.svg")
-      .col-lg-6.col-md-8
+      .col-lg-7.col-md-8
         SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-6")
           .tarjeta.bg9.p-4
             .row.justify-content-center.mb-3

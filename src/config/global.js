@@ -37,8 +37,14 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo:
+              'Aplicaciones de los diferentes tipos de energía en la industria y el comercio',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'La  sostenibilidad',
+            hash: 't_1_2',
           },
         ],
       },
@@ -48,30 +54,79 @@ export default {
         numero: '2',
         titulo: 'Unidades de medida de la energía',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Conversión entre diferentes unidades de energía',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo:
+              'Medición y equipos de medición de la energía (introducción)',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Conceptos fundamentales de eficiencia energética',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Organización Internacional de Normalización (ISO)',
+            hash: 't_3_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Identificación de variables de consumo energético',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              ' Herramientas para el seguimiento y registro de datos de consumo',
+            hash: 't_4_1',
+          },
+        ],
       },
+
       {
         nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Procesos consumidores de energía',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Importancia de la eficiencia energética en los procesos productivos y de servicios',
+            hash: 't_5_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
         titulo: 'Caracterización del consumo energético',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Elaboración de diagramas de flujo de energía',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: '<i>Benchmarking</i> interno y externo (introducción)',
+            hash: 't_6_2',
+          },
+        ],
       },
     ],
     subMenu: [
