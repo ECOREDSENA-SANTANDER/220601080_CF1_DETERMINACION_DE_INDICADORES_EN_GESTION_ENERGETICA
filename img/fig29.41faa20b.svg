@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="549" viewBox="0 0 610 549">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403326" data-name="Rectángulo 403326" width="186.019" height="213.385" rx="10" transform="translate(-9.354 -8)" fill="none" stroke="#226c2c" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1103084" data-name="Grupo 1103084" transform="translate(-495.051 -11037)">
+    <g id="Grupo_1103028" data-name="Grupo 1103028" transform="translate(0 17)">
+      <rect id="Rectángulo_403317" data-name="Rectángulo 403317" width="190" height="60" rx="10" transform="translate(915.051 11303)" fill="#afe1b6"/>
+      <rect id="Rectángulo_403318" data-name="Rectángulo 403318" width="190" height="90" rx="10" transform="translate(915.051 11479)" fill="#fcded3"/>
+      <rect id="Rectángulo_403320" data-name="Rectángulo 403320" width="189" height="90" rx="10" transform="translate(496.051 11479)" fill="#fcded3"/>
+      <text id="Monitoreo_medición_y_análisis" data-name="Monitoreo, medición 
+y análisis" transform="translate(1011.051 11332)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-76.121" y="0">Monitoreo, medición </tspan><tspan x="-33.656" y="15">y análisis</tspan></text>
+      <text id="No_conformidades_corrección_acción_correctiva_y_preventiva" data-name="No conformidades, 
+corrección, acción 
+correctiva y preventiva" transform="translate(1011.051 11511)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-70.383" y="0">No conformidades, </tspan><tspan x="-68.02" y="15">corrección, acción </tspan><tspan x="-81.766" y="30">correctiva y preventiva</tspan></text>
+      <text id="Auditoría_interna_del_SGE" data-name="Auditoría 
+interna del SGE" transform="translate(590.551 11523)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.945" y="0">Auditoría </tspan><tspan x="-55.121" y="15">interna del SGE</tspan></text>
+      <path id="Trazado_885422" data-name="Trazado 885422" d="M-3646.948-275h-105.1V-545.657h121.5" transform="translate(4342.602 11608)" fill="none" stroke="#2d903a" stroke-width="2"/>
+      <rect id="Rectángulo_403321" data-name="Rectángulo 403321" width="157" height="60" rx="10" transform="translate(718.051 11303)" fill="#38b449"/>
+      <rect id="Rectángulo_403323" data-name="Rectángulo 403323" width="189" height="60" rx="10" transform="translate(495.051 11194)" fill="#afe1b6"/>
+      <text id="Verificación" transform="translate(753.551 11339.5)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Verificación</tspan></text>
+      <text id="Revisión_por_la_Gerencia" data-name="Revisión por
+ la Gerencia" transform="translate(589.551 11223)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.719" y="0">Revisión por</tspan><tspan x="-42.473" y="15" xml:space="preserve"> la Gerencia</tspan></text>
+      <g id="Grupo_1102023" data-name="Grupo 1102023" transform="translate(697.619 11433.46) rotate(-90)">
+        <g id="Grupo_1102022" data-name="Grupo 1102022" transform="translate(0 -0.004)" clip-path="url(#clip-path)">
+          <path id="Trazado_885423" data-name="Trazado 885423" d="M164.919,28.37l-18.1-22.253L143.5,10.706A98.706,98.706,0,1,0,164.358,172.4l-2.836-3.179C102.57,221.83,6.753,182.091,4.325,101.527a93.467,93.467,0,0,1,22.4-63.98C53.151,6.451,99.279-6.75,140.971,14.2l-2.861,3.955Z" transform="translate(0 0.004)" fill="#38b449" stroke="#38b449" stroke-width="5"/>
+        </g>
+      </g>
+      <path id="Trazado_885424" data-name="Trazado 885424" d="M-3457.051-275h17.266" transform="translate(4354.784 11608)" fill="none" stroke="#2d903a" stroke-width="2"/>
+      <path id="Trazado_885425" data-name="Trazado 885425" d="M-3457.051-275h211" transform="translate(521.551 14549.051) rotate(90)" fill="none" stroke="#2d903a" stroke-width="2"/>
+      <rect id="Rectángulo_403327" data-name="Rectángulo 403327" width="157" height="60" rx="10" transform="translate(718.051 11194)" fill="#2d903a"/>
+      <rect id="Rectángulo_403328" data-name="Rectángulo 403328" width="157" height="60" rx="10" transform="translate(718.051 11113)" fill="#2d903a"/>
+      <rect id="Rectángulo_403329" data-name="Rectángulo 403329" width="157" height="60" rx="10" transform="translate(718.051 11032)" fill="#2d903a"/>
+      <text id="Implementación_y_operación" data-name="Implementación 
+y operación" transform="translate(796.551 11223)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-60.219" y="0">Implementación </tspan><tspan x="-41.746" y="15">y operación</tspan></text>
+      <text id="Planificación_energética" data-name="Planificación 
+energética" transform="translate(796.551 11142)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-48.789" y="0">Planificación </tspan><tspan x="-38.223" y="15">energética</tspan></text>
+      <text id="Política_energética" data-name="Política 
+energética" transform="translate(796.551 11061)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-29.223" y="0">Política </tspan><tspan x="-38.223" y="15">energética</tspan></text>
+      <path id="Trazado_885426" data-name="Trazado 885426" d="M-3752.051-129l129.021-78.623" transform="translate(4342.602 11608)" fill="none" stroke="#2d903a" stroke-width="2"/>
+      <path id="Trazado_885427" data-name="Trazado 885427" d="M-3614.159-129l-137.892-78.623" transform="translate(4624.21 11608)" fill="none" stroke="#2d903a" stroke-width="2"/>
+      <text id="Mejoramiento_continuo" data-name="Mejoramiento
+continuo" transform="translate(585 11037)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Mejoramiento</tspan><tspan x="0" y="15">continuo</tspan></text>
+      <path id="Polígono_25" data-name="Polígono 25" d="M5,0l5,10H0Z" transform="translate(718.051 11058) rotate(90)" fill="#226c2c"/>
+    </g>
+  </g>
+</svg>

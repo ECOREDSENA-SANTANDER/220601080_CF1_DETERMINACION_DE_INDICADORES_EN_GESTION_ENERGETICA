@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_1100168" data-name="Grupo 1100168" transform="translate(-284.73 -6151)">
+    <circle id="Elipse_11499" data-name="Elipse 11499" cx="42.5" cy="42.5" r="42.5" transform="translate(284.73 6151)" fill="#f35923"/>
+    <g id="Grupo_1102508" data-name="Grupo 1102508" transform="translate(282.967 6109.767)">
+      <g id="Grupo_1102507" data-name="Grupo 1102507" transform="translate(20 60.648)">
+        <g id="Grupo_1102497" data-name="Grupo 1102497" transform="translate(24.263 15.674)">
+          <line id="Línea_760" data-name="Línea 760" y2="5.282" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+          <line id="Línea_761" data-name="Línea 761" transform="translate(0 14.261)" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Grupo_1102506" data-name="Grupo 1102506" transform="translate(0 0)">
+          <g id="Grupo_1102501" data-name="Grupo 1102501" transform="translate(38.46)">
+            <g id="Grupo_1102498" data-name="Grupo 1102498" transform="translate(6.872 8.82)">
+              <line id="Línea_762" data-name="Línea 762" x1="1.3" y2="0.65" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <g id="Grupo_1102499" data-name="Grupo 1102499">
+              <line id="Línea_763" data-name="Línea 763" x1="0.462" y2="1.385" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <g id="Grupo_1102500" data-name="Grupo 1102500" transform="translate(8.69 18.978)">
+              <line id="Línea_764" data-name="Línea 764" x1="1.376" y1="0.465" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+          </g>
+          <g id="Grupo_1102505" data-name="Grupo 1102505">
+            <g id="Grupo_1102502" data-name="Grupo 1102502" transform="translate(1.894 8.82)">
+              <line id="Línea_765" data-name="Línea 765" x2="1.3" y2="0.65" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <g id="Grupo_1102503" data-name="Grupo 1102503" transform="translate(9.604)">
+              <line id="Línea_766" data-name="Línea 766" x2="0.462" y2="1.385" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <g id="Grupo_1102504" data-name="Grupo 1102504" transform="translate(0 18.978)">
+              <line id="Línea_767" data-name="Línea 767" y1="0.465" x2="1.376" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_886797" data-name="Trazado 886797" d="M74.828,86.326,63.156,66.813a5.718,5.718,0,0,0-9.829,0L36.411,95.094a5.771,5.771,0,0,0,4.915,8.746H75.158a5.771,5.771,0,0,0,4.948-8.689" transform="translate(-13.979 -3.024)" fill="none" stroke="#feefe9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
