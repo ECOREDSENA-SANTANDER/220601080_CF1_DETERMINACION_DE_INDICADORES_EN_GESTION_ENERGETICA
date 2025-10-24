@@ -13,7 +13,7 @@
         img(src="@/assets/curso/Tema6/img01.png")
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left").bg5
-          .col-lg-2.col-3.mb-3.col-md-2
+          .col-lg-2.col-4.mb-3.col-md-2
             img(src='@/assets/curso/Tema2/img01.svg', alt='')
           .col-lg-10.p-3
             p En este tema, aprenderá a analizar en detalle los datos de consumo energético recopilados, identificando patrones, tendencias y anomalías. Esta caracterización profunda es esencial para comprender cómo, cuándo y dónde se utiliza la energía en una organización, sentando las bases para la definición de indicadores de gestión energética significativos y la implementación de estrategias de mejora.
@@ -379,6 +379,43 @@
 
     p.mb-3 El benchmarking es un proceso de comparación del desempeño energético de una organización o parte de ella con el de otras entidades (externo) o con períodos anteriores dentro de la misma organización (interno). Es una herramienta poderosa para identificar oportunidades de mejora y establecer objetivos realistas. 
 
+    TabsB.color-acento-contenido.escala-grises
+      .py-4.py-md-5(titulo="<i>Benchmarking</i> externo " :icono="require('@/assets/curso/Tema6/externo.svg')")
+        .row.justify-content-center
+          .col-lg-7.mb-4.mb-md-0
+            h4 #[em Benchmarking] externo 
+            ul.lista-ul--color
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación con organizaciones similares:] analizar el consumo energético de otras empresas del mismo sector, tamaño y con procesos similares. Esto proporciona una perspectiva del desempeño relativo y ayuda a establecer objetivos ambiciosos pero alcanzables.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación con estándares de la industria:] utilizar datos y métricas de referencia publicados por asociaciones industriales o agencias gubernamentales para evaluar el desempeño.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Identificación de mejores prácticas:] aprender de las estrategias y tecnologías implementadas por organizaciones líderes en eficiencia energética.
+          .col-lg-3.col-md-6
+            figure
+              img(src='@/assets/curso/Tema6/img10.svg', alt='Texto que describa la imagen')
+
+      
+      .py-4.py-md-5(titulo="<i>Benchmarking</i> interno " :icono="require('@/assets/curso/Tema6/interno.svg')")
+        .row.justify-content-center
+          .col-lg-7.mb-4.mb-md-0
+            h4 #[em Benchmarking] interno
+            ul.lista-ul--color
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación entre áreas o departamentos:] analizar el consumo energético de diferentes áreas funcionales dentro de la misma organización para identificar las más eficientes y las que tienen margen de mejora.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación temporal:] evaluar el desempeño energético actual con el de períodos anteriores para identificar tendencias y medir el impacto de las acciones implementadas.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación entre equipos o procesos similares:] analizar el consumo de energía de equipos o procesos idénticos para identificar las mejores prácticas operativas.
+          .col-lg-3.col-md-6
+            figure
+              img(src='@/assets/curso/Tema6/img11.svg', alt='Texto que describa la imagen')
 
 
 
@@ -429,4 +466,11 @@ export default {
   display: flex
   justify-content: center
   align-items: center
+.escala-grises .tabs-b__tab
+  &.tabs-b__tab--active .tabs-b__tab__icon
+    filter: grayscale(0)
+    transition: all 0.2s ease-out
+  .tabs-b__tab__icon
+    filter: grayscale(1)
+    transition: all 0.2s ease-out
 </style>
