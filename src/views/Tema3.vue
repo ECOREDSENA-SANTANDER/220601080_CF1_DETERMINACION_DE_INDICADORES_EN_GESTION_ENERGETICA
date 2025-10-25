@@ -39,7 +39,7 @@
           span  Beneficios de la eficiencia energética
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig26.svg', alt='Diagrama circular que destaca los beneficios de la eficiencia energética. En el centro se encuentra el término “Eficiencia Energética” rodeado por ocho beneficios: ahorro energético, cuidado del medio ambiente, disminución en el recibo de luz, ahorro económico, responsabilidad social corporativa, disminución de emisiones de CO₂, cálculo del ahorro energético y desarrollo sostenible. Cada beneficio está representado con un ícono alusivo.')
-          figcaption Fuente: https://solger.com.co/eficiencia-energetica-2/
+          figcaption.des Fuente: https://solger.com.co/eficiencia-energetica-2/
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.col-12
@@ -81,7 +81,7 @@
           span  Ventajas de la gestión energética
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig27.svg', alt='Gráfico circular que muestra las ventajas de la gestión energética. En el centro aparece “Eficiencia energética” y alrededor se destacan cuatro beneficios: ahorro económico (ícono de moneda), reducción de emisiones de CO₂ (ícono de nube), mejora en la competitividad (ícono de insignia) y mayor conocimiento del uso energético (ícono de cabeza con engranajes).')
-          figcaption Fuente: https://www.creara.es/gestion-energetica/ 
+          figcaption.des Fuente: https://www.creara.es/gestion-energetica/ 
 
 
     .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
@@ -274,7 +274,7 @@
           span  Esquema de aplicación de ISO 50001
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig29.svg', alt='Diagrama del ciclo de gestión energética basado en mejora continua. Incluye política, planificación, implementación, verificación, auditoría, acciones correctivas y revisión por la gerencia.')
-        figcaption Fuente: https://geoinnova.org/blog-territorio/iso-50001-sistema-de-gestion-energetica/
+        figcaption.des Fuente: https://geoinnova.org/blog-territorio/iso-50001-sistema-de-gestion-energetica/
 
     p.mb-4 La norma ISO 50001 es de tipo voluntaria, y al igual que otras normas ISO es genérica, por lo que puede ser aplicada a todas las organizaciones sin importar su tipo, tamaño o actividad. Sin embargo, como en todo proceso de implementación de un sistema de gestión, el apoyo y compromiso de la alta dirección es fundamental para asegurar la disponibilidad de recursos necesarios para el logro de los objetivos planteados.
 

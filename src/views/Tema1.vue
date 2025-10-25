@@ -74,7 +74,7 @@
             span  Energía primaria y secundaria
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig1.svg', alt='Diagrama que muestra la transformación de la energía primaria (como petróleo crudo, viento y biomasa) en energía secundaria (como electricidad, biocombustibles y productos del petróleo) hasta su consumo final.')
-          figcaption Fuente: https://stem.guide/topic/fuentes-de-energia-primaria-y-secundaria/?lang=es
+          figcaption.des Fuente: https://stem.guide/topic/fuentes-de-energia-primaria-y-secundaria/?lang=es
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-10.col-12
@@ -115,7 +115,7 @@
             span  Tipos de energía convencionales
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig2.svg', alt='Se presentan cuatro fuentes de energía no renovable: petróleo, carbón, gas natural y energía nuclear, todas dirigidas hacia un mismo objetivo: la producción de energía.')
-          figcaption Fuente: https://geologiaweb.com/recursos-naturales/fuentes-energia-renovables-no-renovables/ 
+          figcaption.des Fuente: https://geologiaweb.com/recursos-naturales/fuentes-energia-renovables-no-renovables/ 
 
 
       p.mb-1 A continuación, se describen las energías no renovables: 
@@ -154,7 +154,7 @@
                     span  Formación y tipos de carbón
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig3.svg', alt='Proceso de formación del carbón y sus tipos, desde un ambiente pantanoso inicial hasta etapas de enterramiento, compactación y metamorfismo. Se muestran cuatro tipos principales de carbón según su grado de carbonificación: turba, lignito, carbón bituminoso y antracita.')
-                  figcaption Fuente: https://geologiaweb.com/rocas/tipos-carbon/
+                  figcaption.des Fuente: https://geologiaweb.com/rocas/tipos-carbon/
 
             .row.justify-content-center(titulo="Petróleo")
               .col-md-11.mb-4.mb-md-0
@@ -168,7 +168,7 @@
                     span  Composición promedio del crudo extraído del subsuelo
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig4.svg', alt='Diagrama que muestra la composición química promedio del petróleo crudo. Incluye: carbono, hidrógeno, azufre, oxígeno, nitrógeno y trazas de metales como sodio, níquel, vanadio, hierro y cobre. NOTA: dados en porcentaje en peso (%)')
-                    figcaption Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
+                    figcaption.des Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
               .col-md-11.mb-4.mb-md-0
                 p.mb-4 Con frecuencia se escucha hablar de los crudos ligeros, los pesados e incluso, los extrapesados. Esta clasificación del petróleo se basa en su densidad, es decir, la masa que tiene un determinado volumen de petróleo, lo que está estrechamente ligado con su composición química. En el ámbito petrolero, se emplean los grados API (°API), de sus siglas en inglés American Petroleum Institute, para definirla, siendo los °API inversos a la densidad, mientras más altos los °API, más ligero es el crudo.  
               .row.justify-content-center.align-items-center.mb-4
@@ -178,7 +178,7 @@
                     span  Clasificación del petróleo crudo según su densidad API
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig5.svg', alt='TGráfico que muestra la clasificación del petróleo crudo según su densidad API. Se divide en cinco categorías: extrapesado, pesado, mediano, ligero  y súper ligero.')
-                    figcaption Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
+                    figcaption.des Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
             .row.justify-content-center(titulo="Gas natural")
               .col-md-11.mb-4.mb-md-0
                 p Una mezcla de hidrocarburos gaseosos, principalmente metano, utilizados para la generación de electricidad, calefacción doméstica e industrial, y como combustible vehicular. Su combustión produce menos emisiones que el carbón y el petróleo, pero sigue siendo una fuente no renovable. En su estado puro, se compone en su mayoría de metano (CH₄), pero también contiene pequeñas cantidades de etano (C₂H₆), propano (C₃H₈), butano (C₄H₁₀) o pentano (C₅H₁₂) y otros componentes.
@@ -191,7 +191,7 @@
                     span  Composición del gas natural
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig6.svg', alt='Gráfico que muestra los componentes del gas natural en su forma primaria, destacando el metano como principal, seguido de etano, propano, butano, pentanos y compuestos no hidrocarburos.')
-                    figcaption Fuente: https://ovacen.com/gas-natural/
+                    figcaption.des Fuente: https://ovacen.com/gas-natural/
             .row.justify-content-center(titulo="Energía nuclear")
               .col-md-11.mb-4.mb-md-0
                 p La energía nuclear aprovecha la energía contenida en el núcleo de los átomos. En las centrales nucleares actuales, esta energía se libera principalmente a través de la fisión nuclear, un proceso en el que núcleos de átomos pesados, como el uranio - 235, son bombardeados con neutrones, lo que provoca que se dividan en núcleos más pequeños, liberando una gran cantidad de energía en forma de calor y más neutrones, perpetuando una reacción en cadena controlada.
@@ -204,7 +204,7 @@
                     span  Energía nuclear
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig7.svg', alt='Diagrama ilustrativo del funcionamiento de una central nuclear. Se muestra el proceso desde la fisión del combustible en la vasija del reactor, la generación de vapor que impulsa una turbina conectada a un alternador, y la producción de electricidad. Incluye componentes como el edificio de contención, generadores de vapor, condensador, torre de refrigeración, transformador y sistema de recirculación de agua desde una fuente fría.')
-                    figcaption Fuente: https://www.foronuclear.org/actualidad/a-fondo/cuales-son-los-distintos-componentes-de-una-central-nuclear/
+                    figcaption.des Fuente: https://www.foronuclear.org/actualidad/a-fondo/cuales-son-los-distintos-componentes-de-una-central-nuclear/
 
             .row.justify-content-center(titulo="Energía hidroeléctrica")
               .col-md-11.mb-4.mb-md-0
@@ -218,7 +218,7 @@
                     span  Esquema básico de una central hidroeléctrica
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig8.svg', alt='Ilustración esquemática del funcionamiento de una central hidroeléctrica. El agua almacenada en un embalse pasa por una compuerta y fluye a través de una tubería de paso, accionando una turbina conectada a un generador eléctrico. La electricidad generada es transportada por torres de tendido eléctrico. El agua utilizada es finalmente liberada por el desagüe de la presa.')
-                    figcaption Fuente: https://www.ormazabal.com/energia-hidroelectrica-que-es-y-como-funciona/
+                    figcaption.des Fuente: https://www.ormazabal.com/energia-hidroelectrica-que-es-y-como-funciona/
 
       .row.justify-content-start.mb-5(data-aos="zoom-in-left")
         .col-sm-12.col-lg-10.col-12
@@ -239,7 +239,7 @@
             span  Tipos de energía convencionales
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig9.svg', alt='Ilustración representativa de diferentes fuentes de energías renovables, incluyendo energía solar, biomasa, energía geotérmica, energía eólica y energía de hidrógeno. Todas estas fuentes convergen en la generación de energía limpia.')
-          figcaption Fuente: https://geologiaweb.com/recursos-naturales/fuentes-energia-renovables-no-renovables/ 
+          figcaption.des Fuente: https://geologiaweb.com/recursos-naturales/fuentes-energia-renovables-no-renovables/ 
 
 
       .subt2.mb-5(data-aos="fade")
@@ -270,7 +270,7 @@
                     span  Diferentes aplicaciones de la energía solar fotovoltaica
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig10.svg', alt='Ilustración que muestra cuatro aplicaciones comunes de la energía solar fotovoltaica: 1) instalación conectada a la red eléctrica en una vivienda urbana; 2) instalación aislada en una casa rural con paneles solares en el techo; 3) sistema de bombeo solar en una zona agrícola con paneles y bomba de agua; y 4) alumbrado solar con una lámpara pública equipada con panel solar.')
-                  figcaption Fuente: https://aprende.com/blog/oficios/energia-solar/conocimientos-basicos-que-necesitas-para-realizar-tu-primera-instalacion-solar/
+                  figcaption.des Fuente: https://aprende.com/blog/oficios/energia-solar/conocimientos-basicos-que-necesitas-para-realizar-tu-primera-instalacion-solar/
                         
             .py-3.py-md-4(titulo="Térmica")
               .row.justify-content-center.align-items-center.p-4
@@ -282,7 +282,7 @@
                     span  Funcionamiento de un colector solar térmico
                   figure
                     img.mb-3(src='@/assets/curso/Tema1/fig11.svg', alt='Diagrama de un sistema de energía solar térmica que muestra el funcionamiento de un colector solar. El panel solar calienta un fluido (glicol) en un circuito cerrado, que transfiere el calor a un acumulador. El sistema permite calentar agua fría que entra por una tubería y sale como agua caliente para su uso doméstico.')
-                  figcaption Fuente: https://www.solarlinkers.com/tipos-de-energia-solar-termica/
+                  figcaption.des Fuente: https://www.solarlinkers.com/tipos-de-energia-solar-termica/
                 
       p.mb-4 La energía solar puede ser aprovechada de dos formas principales: la fotovoltaica y la térmica. La energía solar fotovoltaica convierte la luz del sol en electricidad mediante paneles solares, siendo ideal para alimentar dispositivos eléctricos y sistemas conectados a la red o aislados. En cambio, la energía solar térmica utiliza el calor del sol para calentar agua, comúnmente empleada en usos domésticos e industriales. Mientras que la primera se enfoca en la generación de electricidad, la segunda se orienta al aprovechamiento térmico, lo que permite cubrir distintas necesidades energéticas con fuentes limpias y renovables.
 
@@ -293,7 +293,7 @@
             span  Diferencia entre energía solar fotovoltaica y térmica
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig12.svg', alt='Comparación entre energía solar fotovoltaica (genera electricidad) y térmica (calienta agua), usando la luz y el calor del sol.')
-          figcaption Fuente: https://becquel.com/blog/es/diferencias-entre-la-energia-solar-termica-y-la-fotovoltaica/
+          figcaption.des Fuente: https://becquel.com/blog/es/diferencias-entre-la-energia-solar-termica-y-la-fotovoltaica/
 
       .subt2.mb-5(data-aos="fade")
         h3.mb-0 b. Energía eólica 
@@ -317,7 +317,7 @@
           .tarjeta--container.row(data-aos="zoom-in-left")
             .col-md-6.tarjeta.bg14.p-5.col-lg-6
               .row.align-items-end.mb-4
-                .col-3
+                .col-3.d-none.d-lg-block
                   img(src='@/assets/curso/Tema1/3.svg', alt='')
                 .col-5.col-9
                   .bg-color.w-fit.px-4
@@ -325,7 +325,7 @@
               p Son el tipo más común. Su eje de rotación es paralelo al suelo y las palas giran en un plano vertical perpendicular a la dirección del viento. Generalmente son más eficientes, especialmente en áreas con vientos fuertes y constantes, y suelen estar montados en torres altas para aprovechar mejor la velocidad del viento. Necesitan un sistema de orientación (veleta y motor) para alinearse continuamente con la dirección del viento.
             .col-md-6.tarjeta.bg15.p-5.col-lg-6
               .row.align-items-end.mb-4
-                .col-3
+                .col-3.d-none.d-lg-block
                   img(src='@/assets/curso/Tema1/4.svg', alt='')
                 .col-9
                   .bg-color.w-fit.px-4
@@ -340,7 +340,7 @@
             span  Tipos de aerogeneradores según su eje
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig13.svg', alt='Comparación entre turbinas eólicas de eje horizontal (como tripala y tipo americano) y turbinas de eje vertical (como tipo Darrieus y torre vorticosa).')
-          figcaption Fuente: https://regioncentralrape.gov.co/wp-content/uploads/2020/04/Potencial-eo%CC%81lico-Regio%CC%81n-Central.pdf
+          figcaption.des Fuente: https://regioncentralrape.gov.co/wp-content/uploads/2020/04/Potencial-eo%CC%81lico-Regio%CC%81n-Central.pdf
       
       .subt2.mb-5(data-aos="fade")
         h3.mb-0 c. Biomasa
@@ -349,7 +349,7 @@
         .col-lg-6
           p Se refiere a la materia orgánica de origen vegetal o animal que puede utilizarse como fuente de energía. Esto incluye la quema de madera, residuos agrícolas, biocombustibles líquidos (etanol, biodiésel) y la digestión anaeróbica de residuos orgánicos para producir biogás. 
           p El sol es el motor fundamental detrás de la generación de biomasa. A través del proceso de fotosíntesis, las plantas utilizan la energía solar, el dióxido de carbono del aire y el agua para producir materia orgánica (biomasa) en forma de hojas, tallos, raíces y frutos. Esta biomasa almacena la energía solar en sus enlaces químicos y se convierte en una fuente potencial de energía renovable que puede utilizarse directamente como combustible (leña), transformarse en biocombustibles (etanol, biodiésel) o convertirse en biogás mediante procesos de digestión anaeróbica. En esencia, el sol provee la energía primaria que impulsa el crecimiento de toda la biomasa terrestre y acuática.
-        .col-lg-5
+        .col-lg-5.mb-3
           img(src='@/assets/curso/Tema1/img05.png', alt='')
         .col-lg-6
           .titulo-sexto.color-acento-contenido
@@ -357,7 +357,7 @@
             span  Tipos de biomasa
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig14.svg', alt='Diagrama que muestra cómo la energía solar permite generar biomasa a partir de residuos agrícolas, forestales, ganaderos, urbanos e industriales agroalimentarios.')
-          figcaption Fuente: https://www.topcable.com/blog-electric-cable/la-biomasa-fuente-de-energia-renovable-de-gran-potencial/
+          figcaption.des Fuente: https://www.topcable.com/blog-electric-cable/la-biomasa-fuente-de-energia-renovable-de-gran-potencial/
 
 
       .subt2.mb-5(data-aos="fade")
@@ -372,7 +372,7 @@
       p.mb-4 Existen principalmente tres tipos de centrales geotérmicas, adaptadas a las características del recurso geotérmico disponible:
 
       .row.justify-content-center.cursor-pointer.mb-3(data-aos="fade-down")
-        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .col-xl-4.col-lg-7.col-md-9.col-12.mb-4.mb-xl-0
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
@@ -382,7 +382,7 @@
               h4.mb-4.text-center Centrales de vapor seco
               p Utilizan directamente el vapor geotérmico a alta temperatura (más de 150 °C) para hacer girar las turbinas. Son las más sencillas y eficientes, pero requieren yacimientos que produzcan principalmente vapor seco.
         
-        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .col-xl-4.col-lg-7.col-md-9.col-12.mb-4.mb-xl-0
           .crd_hover_txt
             .crd_hover_txt--img
               figure
@@ -391,7 +391,7 @@
               h4.mb-3 Centrales de vapor de destello (#[em flash])
               p.mb-0 Son las más comunes. Utilizan agua geotérmica a alta temperatura (más de 200 °C) y presión. Al ascender por el pozo y llegar a la superficie con menor presión, parte del agua se evapora rápidamente (“destella”) convirtiéndose en vapor que acciona la turbina. Pueden tener uno o varios “destellos” para maximizar la producción de vapor.
         
-        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .col-xl-4.col-lg-7.col-md-9.col-12.mb-4.mb-xl-0
           .crd_hover_txt
             .crd_hover_txt--img
               figure
@@ -409,7 +409,7 @@
             span  Esquema básico de una central geotérmica
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig15.svg', alt='Esquema de una planta geotérmica que transforma el calor de la tierra en electricidad. El vapor generado mueve una turbina conectada a un alternador, produciendo energía que pasa por un transformador y se distribuye en la red eléctrica. El sistema incluye condensador, bomba y torre de refrigeración.')
-          figcaption Fuente: https://amif.mx/como-funciona-una-central-geotermica-y-cuales-son-sus-beneficios/
+          figcaption.des Fuente: https://amif.mx/como-funciona-una-central-geotermica-y-cuales-son-sus-beneficios/
 
 
       separador
@@ -438,7 +438,7 @@
             span  Evolución del consumo energético en la historia de la humanidad
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig16.svg', alt='Gráfico que muestra cómo las necesidades energéticas del ser humano han aumentado a lo largo del tiempo. Desde el Homo sapiens hasta el hombre actual, se observa un incremento en el uso de energía para alimentación, uso doméstico, industria/agricultura y transporte. La energía no alimenticia crece notablemente en la era industrial y contemporánea.')
-          figcaption Fuente: https://portillobiogeo4.blogspot.com/2013/06/la-energia-en-nuestras-vidas.html
+          figcaption.des Fuente: https://portillobiogeo4.blogspot.com/2013/06/la-energia-en-nuestras-vidas.html
 
       p.mb-4 Ahora bien, la industria y el comercio dependen de una combinación de diferentes tipos de energía para sus diversas operaciones, con una tendencia creciente hacia la incorporación de fuentes renovables para mejorar la eficiencia, reducir costos y disminuir el impacto ambiental.
 
@@ -526,7 +526,7 @@
             span  ESostenibilidad
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig17.svg', alt='Diagrama de Venn que representa el desarrollo sostenible como la intersección de tres dimensiones: social, económica y medioambiental. La unión entre lo social y lo económico es “equitativo”, entre lo económico y lo ambiental es “viable”, y entre lo social y lo ambiental es “vivible”.')
-          figcaption Fuente: https://responsabilidadsocial.net/sostenibilidad-que-es-definicion-concepto-tipos-y-ejemplos/
+          figcaption.des Fuente: https://responsabilidadsocial.net/sostenibilidad-que-es-definicion-concepto-tipos-y-ejemplos/
 
       .row.justify-content-start.mb-3(data-aos="zoom-in-left")
         .col-sm-12.col-lg-10.col-12
@@ -550,10 +550,10 @@
         .col-lg-10.mb-4
           .titulo-sexto.color-acento-contenido
             h5 Figura 18.
-            span  Objetivos de desarrollo sostenible por la ONUUUU
+            span  Objetivos de desarrollo sostenible por la ONU
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig18.png', alt='Iconos de los 17 Objetivos de Desarrollo Sostenible de la ONU, que abordan desafíos sociales, económicos y ambientales para lograr un futuro sostenible.')
-          figcaption Fuente: https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/
+          figcaption.des Fuente: https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/
         p La Agenda 2030 busca un enfoque integrado, reconociendo que el progreso en un área afecta los resultados en otras, y que el desarrollo debe equilibrar la sostenibilidad económica, social y ambiental. Los ODS son un llamado a la acción para todos los países (desarrollados y en desarrollo) y para todos los actores (gobiernos, sector privado, sociedad civil y ciudadanos) para trabajar de manera colaborativa en la consecución de un mundo más justo, próspero y sostenible para el año 2030.
 
 

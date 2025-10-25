@@ -8,7 +8,7 @@
       h1 Procesos consumidores de energía
     
     .row.justify-content-center.mb-3.bg3.p-4(data-aos="zoom-in-left")
-      .col-lg-1.col-3.col-md-2
+      .col-lg-1.col-4.col-md-2.mb-3
         img(src='@/assets/curso/Tema2/img01.svg', alt='')
       .col-lg-11
         p La identificación y el análisis de los procesos específicos responsables del consumo energético dentro de una organización son fundamentales para una gestión eficiente. Comprender en detalle cómo y dónde se utiliza la energía permite enfocar los esfuerzos de mejora en las áreas de mayor impacto, facilitando la toma de decisiones estratégicas orientadas a la optimización del rendimiento energético.

@@ -249,7 +249,7 @@
                   span  Instrumentos de medición convencionales
                 figure
                   img(src='@/assets/curso/Tema2/fig25.png', alt='Conjunto de instrumentos empleados en mediciones eléctricas, entre los que se encuentran multímetros digitales y analógicos, medidores de resistencia, amperímetros, pinzas amperimétricas, un osciloscopio, un medidor de aislamiento y un contador de energía. Estos equipos permiten diagnosticar, verificar y analizar parámetros eléctricos como voltaje, corriente, resistencia y formas de onda en sistemas eléctricos.')
-                  figcaption Fuente: https://electronicaonline.net/electronica/instrumentos-de-medicion-electronica/
+                  figcaption.des Fuente: https://electronicaonline.net/electronica/instrumentos-de-medicion-electronica/
 
    
 
