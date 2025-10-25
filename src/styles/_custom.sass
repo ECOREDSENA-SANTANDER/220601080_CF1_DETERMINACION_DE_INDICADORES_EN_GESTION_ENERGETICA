@@ -193,6 +193,62 @@ figcaption
     margin-inline: -2.0rem
     margin-right: -1rem
     margin-left: -1rem
+.bgtema15
+  background-image: url('../assets/curso/Tema1/fondo6.png')
+  background-position: top
+  background-size: 100% 50%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -2rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    margin-inline: -2.0rem
+    margin-right: -1rem
+    margin-left: -1rem
+.bgtema16
+  background-image: url('../assets/curso/Tema1/fondo7.png')
+  background-position: top
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -2rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    margin-inline: -2.0rem
+    margin-right: -1rem
+    margin-left: -1rem
+.bgtema16
+  background-image: url('../assets/curso/Tema1/fondo8.png')
+  background-position: top
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -2rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    margin-inline: -2.0rem
+    margin-right: -1rem
+    margin-left: -1rem
+.bgtema17
+  background-image: url('../assets/curso/Tema1/fondo9.png')
+  background-position: bottom
+  background-size: 100% 40%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -2rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    margin-inline: -2.0rem
+    margin-right: -1rem
+    margin-left: -1rem
 .bgtema4
   background-image: url('../assets/curso/Tema4/fondo1.png')
   background-position: center
@@ -348,3 +404,35 @@ figcaption
 .col-sm-6.col-lg-4.col-xl.tabs-c__tab.py-3.tabs-c__tab--active
   font-weight: bold !important
 
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  display: inline-block
+  overflow: hidden
+  position: relative
+  border-radius: 25px
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0) 
+  &:hover    
+    .crd_hover_txt--body
+      height: 95%   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #FABCA7
+      h4, p
+        opacity: 1
+        color: #12263F !important
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.1rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #F35923
+    h4
+      color: #ffff
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em

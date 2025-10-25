@@ -7,12 +7,12 @@
           span 1
         h1 Tipos y formas de energía
         
-      .row.justify-content-center.align-items-center.bgtema1
-        .col-lg-5
+      .row.justify-content-center.align-items-center.bgtema1(data-aos="zoom-in-left")
+        .col-lg-5.mb-3
           img(src="@/assets/curso/Tema1/img01.png")
         .col-lg-6
           .row.justify-content-center
-            .col-lg-2
+            .col-lg-2.col-3.mb-3
               img(src="@/assets/curso/Tema1/rayo.svg")
             .col-lg-10
               p Se analizan las distintas formas en que la energía se genera, transforma y aplica en los diversos procesos organizacionales. Comprender estas dinámicas es clave para identificar de manera precisa las fuentes de consumo energético y su impacto en el funcionamiento general de la entidad.
@@ -67,7 +67,7 @@
                       span Ir al sitio
                       i.fas.fa-circle-play
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
         .col-lg-8
           .titulo-sexto.color-acento-contenido
             h5 Figura 1.
@@ -83,17 +83,17 @@
             h3.bg2.py-2.w-card-text Tipos de energía convencionales (combustibles fósiles, nuclear, hidroeléctrica)
 
       .row.justify-content-center.align-items-center.mb-3
-        .col-lg-5
+        .col-lg-5.mb-3
           img(src="@/assets/curso/Tema1/img02.png")
         .col-lg-7
           .row.justify-content-center
-            .col-lg-2
+            .col-lg-2.col-4.mb-3
               img(src="@/assets/curso/Tema1/rayo.svg")
             .col-lg-10
               p.mb-3 A lo largo de la historia, ciertas fuentes de energía han desempeñado un papel central en el abastecimiento energético global, dando origen a lo que hoy se conoce como energías convencionales. 
           p Estas fuentes, como los combustibles fósiles, la energía nuclear y la hidroeléctrica, han sido ampliamente utilizadas debido a su disponibilidad, confiabilidad y la infraestructura desarrollada a su alrededor. Aunque el panorama energético actual avanza hacia alternativas más sostenibles, comprender el funcionamiento y las implicaciones de estas formas tradicionales de energía sigue siendo fundamental para analizar el sistema energético global y planificar una transición responsable.
 
-      h5.mb-5 Las energías convencionales reciben este nombre por varias razones interrelacionadas:
+      h5.mb-4 Las energías convencionales reciben este nombre por varias razones interrelacionadas:
 
       TabsA.color-acento-botones.mb-4
         .tarjeta.color-acento-botones--borde.p-4(titulo="Uso histórico y generalizado")
@@ -108,7 +108,7 @@
       p.mb-4 Los principales ejemplos de energías convencionales son los combustibles fósiles (petróleo, gas natural y carbón), la energía nuclear y la energía hidroeléctrica (especialmente las grandes represas).
 
 
-      .row.justify-content-center.align-items-center.mb-5.bgtema11
+      .row.justify-content-center.align-items-center.mb-3.bgtema11
         .col-lg-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
@@ -118,15 +118,15 @@
           figcaption Fuente: https://geologiaweb.com/recursos-naturales/fuentes-energia-renovables-no-renovables/ 
 
 
-      p.mb-3 A continuación, se describen las energías no renovables: 
+      p.mb-1 A continuación, se describen las energías no renovables: 
 
-      .row.justify-content-start.mb-5(data-aos="zoom-in-left")
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-10.col-12
           .d-flex.align-items-center.mt-4
             img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
             h3.bg2.py-2.w-card-text Combustibles fósiles
 
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-left")
         .col-lg-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.justify-content-center(titulo="Carbón")
@@ -226,13 +226,13 @@
             img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
             h3.bg2.py-2.w-card-text Tipos de energía renovables (solar, eólica, biomasa, geotérmica)
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-1
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-1.col-4.mb-3
           img(src="@/assets/curso/Tema1/rayo.svg")
         .col-lg-11
           p Las energías renovables son aquellas fuentes de energía que se obtienen de recursos naturales que se reponen a un ritmo igual o mayor al que se consumen, considerándose prácticamente inagotables a escala humana. Se caracterizan por tener un menor impacto ambiental en comparación con las energías convencionales o no renovables, ya que en su proceso de obtención y utilización no se generan o se minimizan las emisiones de gases de efecto invernadero y otros contaminantes.
 
-      .row.justify-content-center.align-items-center.mb-5.bgtema11
+      .row.justify-content-center.align-items-center.mb-5.bgtema11(data-aos="zoom-in-left")
         .col-lg-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 9.
@@ -245,14 +245,14 @@
       .subt2.mb-5(data-aos="fade")
         h3.mb-0 a. Energía solar
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.bg10.p-4
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-5.bg10.p-4.mb-3
           p La energía solar representa una de las fuentes más prometedoras dentro del conjunto de energías renovables, debido a su disponibilidad, bajo impacto ambiental y versatilidad de aplicaciones. Este tipo de energía aprovecha la radiación del sol para generar electricidad o calor, contribuyendo significativamente a la reducción de emisiones contaminantes y a la diversificación de la matriz energética. 
-        .col-lg-3
+        .col-lg-3.d-none.d-lg-block
           img(src="@/assets/curso/Tema1/img03.svg")
         .col-lg-4
           .row
-            .col-lg-3.mb-3
+            .col-lg-3.mb-3.col-4
               img(src="@/assets/curso/Tema1/img04.svg")
             .col-lg-12
               p A continuación, se detalla la energía solar fotovoltaica, una tecnología ampliamente utilizada para la conversión directa de la luz solar en electricidad.
@@ -286,7 +286,7 @@
                 
       p.mb-4 La energía solar puede ser aprovechada de dos formas principales: la fotovoltaica y la térmica. La energía solar fotovoltaica convierte la luz del sol en electricidad mediante paneles solares, siendo ideal para alimentar dispositivos eléctricos y sistemas conectados a la red o aislados. En cambio, la energía solar térmica utiliza el calor del sol para calentar agua, comúnmente empleada en usos domésticos e industriales. Mientras que la primera se enfoca en la generación de electricidad, la segunda se orienta al aprovechamiento térmico, lo que permite cubrir distintas necesidades energéticas con fuentes limpias y renovables.
 
-      .row.justify-content-center.align-items-center.mb-5.bgtema12
+      .row.justify-content-center.align-items-center.mb-5.bgtema12(data-aos="zoom-in-left")
         .col-lg-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 12.
@@ -299,12 +299,12 @@
         h3.mb-0 b. Energía eólica 
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-5.mb-3
           img(src="@/assets/curso/Tema1/img04.png")
         .col-lg-7
           h5 Aprovecha la energía cinética del viento mediante turbinas eólicas (aerogeneradores) para generar electricidad. Es una fuente limpia y abundante en muchas regiones. 
           .row.justify-content-center
-            .col-lg-2
+            .col-lg-2.col-4.mb-3
               img(src="@/assets/curso/Tema1/rayo.svg")
             .col-lg-10
               p La energía eólica también tiene una influencia indirecta pero fundamental del sol. El viento, que es la fuente de energía para los aerogeneradores, se genera principalmente por el calentamiento desigual de la superficie terrestre y la atmósfera por el sol. 
@@ -363,15 +363,198 @@
       .subt2.mb-5(data-aos="fade")
         h3.mb-0 d. Energía geotérmica
 
-      .row.justify-content-center.align-items-center
-        .col-lg-1
+      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+        .col-lg-1.col-4.mb-3
           img(src="@/assets/curso/Tema1/rayo.svg")
         .col-lg-11
           p Una central geotérmica aprovecha el calor natural del interior de la Tierra para generar electricidad. Su funcionamiento básico implica la perforación de pozos profundos para acceder a reservorios geotérmicos que contienen agua caliente y vapor a alta presión. Este fluido geotérmico se extrae a la superficie y se utiliza para accionar turbinas conectadas a generadores eléctricos, convirtiendo la energía térmica en energía mecánica y luego en electricidad. Después de pasar por la turbina, el vapor se condensa y el agua (a veces después de pasar por una torre de enfriamiento) se reinyecta de nuevo al subsuelo para ser recalentada, creando un ciclo continuo.
 
       p.mb-4 Existen principalmente tres tipos de centrales geotérmicas, adaptadas a las características del recurso geotérmico disponible:
 
+      .row.justify-content-center.cursor-pointer.mb-3(data-aos="fade-down")
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt(@mouseover="mostrarIndicador = false")
+            .indicador--hover(v-if="mostrarIndicador")
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/1.png", alt="")
+            .crd_hover_txt--body
+              h4.mb-4.text-center Centrales de vapor seco
+              p Utilizan directamente el vapor geotérmico a alta temperatura (más de 150 °C) para hacer girar las turbinas. Son las más sencillas y eficientes, pero requieren yacimientos que produzcan principalmente vapor seco.
+        
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/2.png", alt="")
+            .crd_hover_txt--body.text-center 
+              h4.mb-3 Centrales de vapor de destello (#[em flash])
+              p.mb-0 Son las más comunes. Utilizan agua geotérmica a alta temperatura (más de 200 °C) y presión. Al ascender por el pozo y llegar a la superficie con menor presión, parte del agua se evapora rápidamente (“destella”) convirtiéndose en vapor que acciona la turbina. Pueden tener uno o varios “destellos” para maximizar la producción de vapor.
+        
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/3.png", alt="")
+            .crd_hover_txt--body.text-center 
+              h4.mb-3 Centrales de ciclo binario
+              p.mb-0 Se utilizan para yacimientos con temperaturas más bajas (por debajo de 150 °C). El agua geotérmica caliente se utiliza para calentar un segundo fluido con un punto de ebullición más bajo (como isobutano o pentano) en un intercambiador de calor. Este segundo fluido se vaporiza y acciona la turbina. El fluido secundario se condensa y se reutiliza en un ciclo cerrado, sin emitir vapor de agua a la atmósfera.
 
+
+
+      .row.justify-content-center.align-items-center.mb-2.bgtema15.p-2
+        .col-lg-8
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 15.
+            span  Esquema básico de una central geotérmica
+          figure
+            img.mb-3(src='@/assets/curso/Tema1/fig15.svg', alt='Esquema de una planta geotérmica que transforma el calor de la tierra en electricidad. El vapor generado mueve una turbina conectada a un alternador, produciendo energía que pasa por un transformador y se distribuye en la red eléctrica. El sistema incluye condensador, bomba y torre de refrigeración.')
+          figcaption Fuente: https://amif.mx/como-funciona-una-central-geotermica-y-cuales-son-sus-beneficios/
+
+
+      separador
+      #t_1_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
+        h2 1.1. Aplicaciones de los diferentes tipos de energía en la industria y el comercio
+
+      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade").mb-4
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/Tema1/img06.jpg')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          br
+          p.mb-0 Toda acción humana, desde la más simple hasta la más compleja, requiere energía. Esta necesidad incluye tanto la energía interna que obtenemos de los alimentos para nuestras funciones vitales, como la energía externa que usamos con máquinas y sistemas para realizar tareas. 
+          br
+          br
+          p Mientras que la demanda biológica de energía ha sido relativamente constante, el consumo de energía externa ha crecido exponencialmente con el avance de la tecnología y la civilización. Este aumento, impulsado por la industrialización y la urbanización, resalta la importancia de una gestión eficiente de la energía en el mundo actual.
+          br
+          br
+
+      p.mb-4 El contenido se centra en cómo las organizaciones emplean la energía más allá de las necesidades humanas básicas, destacando la importancia de comprender sus fuentes y aplicaciones. Esta comprensión es fundamental para optimizar recursos, reducir costos operativos, mitigar el impacto ambiental y garantizar el cumplimiento de las normativas vigentes.
+
+      .row.justify-content-center.align-items-center.mb-4.bgtema16.p-4
+        .col-lg-6
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 16.
+            span  Evolución del consumo energético en la historia de la humanidad
+          figure
+            img.mb-3(src='@/assets/curso/Tema1/fig16.svg', alt='Gráfico que muestra cómo las necesidades energéticas del ser humano han aumentado a lo largo del tiempo. Desde el Homo sapiens hasta el hombre actual, se observa un incremento en el uso de energía para alimentación, uso doméstico, industria/agricultura y transporte. La energía no alimenticia crece notablemente en la era industrial y contemporánea.')
+          figcaption Fuente: https://portillobiogeo4.blogspot.com/2013/06/la-energia-en-nuestras-vidas.html
+
+      p.mb-4 Ahora bien, la industria y el comercio dependen de una combinación de diferentes tipos de energía para sus diversas operaciones, con una tendencia creciente hacia la incorporación de fuentes renovables para mejorar la eficiencia, reducir costos y disminuir el impacto ambiental.
+
+      .row.justify-content-center.mb-5.fondoslyder.py-5(data-aos="zoom-in-left")
+        .col-lg-11
+          .tarjeta.bgslyder.p-4
+            SlyderA(tipo="b")
+              .row.justify-content-center.py-2
+                .col-md-6.mb-4.mb-md-0
+                  h4.mb-4 Electricidad
+                  p Es la forma de energía más versátil y se utiliza en prácticamente todos los sectores para iluminación, funcionamiento de equipos, procesos industriales, climatización, etc. Puede generarse a partir de diversas fuentes primarias. 
+                  p En la industria, impulsa maquinaria, procesos de producción automatizados, sistemas de iluminación, climatización de plantas, soldadura, robótica y equipos de oficina. En el comercio, alimenta la iluminación de locales, sistemas de refrigeración y conservación de alimentos, equipos de punto de venta, sistemas de climatización para confort de clientes y empleados, y la infraestructura tecnológica (ordenadores, servidores, etc.).
+                .col-md-5
+                  img(src='@/assets/curso/Tema1/im1.png', alt='')
+              
+              .row.justify-content-center.py-2
+                .col-md-6.mb-4.mb-md-0
+                  h4.mb-4 Calor
+                  p Es esencial para muchos procesos industriales (calderas, hornos), sistemas de calefacción en edificios y para la producción de agua caliente sanitaria. Puede obtenerse de la quema de combustibles, la electricidad, la energía solar térmica o la geotermia. 
+                  p El calor, obtenido principalmente de la quema de combustibles (gas natural, #[em fueloil], biomasa) o mediante electricidad (resistencias, bombas de calor), es crucial en la industria para procesos como la fundición de metales, la cocción de materiales, el secado, la generación de vapor para procesos y la calefacción industrial. En el comercio, se utiliza principalmente para la calefacción de espacios y la producción de agua caliente sanitaria en hoteles, restaurantes y otros establecimientos.
+                .col-md-5
+                  img(src='@/assets/curso/Tema1/im2.png', alt='')
+
+              .row.justify-content-center.py-2
+                .col-md-6.mb-4.mb-md-0
+                  h4.mb-4 Movimiento (energía mecánica)
+                  p Impulsa maquinaria industrial, sistemas de transporte (vehículos eléctricos, montacargas), bombas y compresores. Se obtiene principalmente de la electricidad o de la combustión de combustibles. 
+                  p Derivada de motores eléctricos o de combustión interna, se aplica en la industria para el funcionamiento de maquinaria pesada, sistemas de transporte interno (cintas transportadoras, grúas), ventiladores y compresores. En el comercio, se utiliza en menor medida, principalmente en sistemas de elevación (ascensores, montacargas) y en algunos equipos específicos.
+                .col-md-5
+                  img(src='@/assets/curso/Tema1/im3.png', alt='')
+              
+              .row.justify-content-center.py-2
+                .col-md-6.mb-4.mb-md-0
+                  h4.mb-4 Combustibles
+                  p Gasolina, diésel, gas natural, gas licuado de petróleo (GLP), son esenciales para el transporte de mercancías y personal tanto en la industria como en el comercio. Además, en algunas industrias, se utilizan directamente en procesos productivos (hornos, calderas) o para la generación de energía #[em in situ] (grupos electrógenos).
+                .col-md-5
+                  img(src='@/assets/curso/Tema1/im4.png', alt='')
+              
+              .row.justify-content-center.py-2
+                .col-md-6.mb-4.mb-md-0
+                  h4.mb-4 Refrigeración
+                  p Es crucial en la industria alimentaria, el almacenamiento y la climatización. Se basa en la transferencia de calor, generalmente utilizando electricidad para operar los sistemas de refrigeración.
+                .col-md-5
+                  img(src='@/assets/curso/Tema1/im5.png', alt='')
+
+      separador
+      #t_1_2.titulo-segundo.mb-5
+        h2 1.2. La  sostenibilidad
+
+      p.mb-4 La sostenibilidad se refiere a la capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. Implica un equilibrio dinámico entre tres pilares fundamentales:
+
+
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
+        .col-lg-4.col-7.mb-3
+          img(src="@/assets/curso/Tema1/img07.png")
+        .col-lg-7.col-md-8
+          SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-6")
+            .tarjeta.bg5.p-4
+              .row.justify-content-center.mb-3
+                .col-6.col-md-4
+                  img(src='@/assets/curso/Tema1/sly1.svg' alt='')
+              h5.text-center.bg2.p-1.text-white Sostenibilidad económica
+              p.text-center Fomentar un crecimiento económico que sea inclusivo, eficiente en el uso de los recursos y que no genere daños ambientales a largo plazo.
+          
+            .tarjeta.bg5.p-4
+              .row.justify-content-center.mb-3
+                .col-6.col-md-4
+                  img(src='@/assets/curso/Tema1/sly2.svg' alt='')
+              h5.text-center.bg2.p-1.text-white Sostenibilidad social
+              p.text-center Promover la equidad, la justicia social, la salud, la educación y el bienestar de todas las personas, garantizando la cohesión social y el respeto por la diversidad cultural.
+
+            .tarjeta.bg5.p-4
+              .row.justify-content-center.mb-3
+                .col-6.col-md-4
+                  img(src='@/assets/curso/Tema1/sly3.svg' alt='')
+              h5.text-center.bg2.p-1.text-white Sostenibilidad ambiental
+              p.text-center Proteger los recursos naturales, los ecosistemas y la biodiversidad, minimizando la contaminación, el agotamiento de recursos y los impactos negativos en el planeta.
+
+      p.mb-4 En esencia, la sostenibilidad busca un desarrollo que sea viable a largo plazo, considerando las interconexiones entre estos tres pilares para asegurar un futuro próspero y equitativo para todos.
+
+      .row.justify-content-center.align-items-center.mb-2.bgtema16.p-4
+        .col-lg-4
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 17.
+            span  ESostenibilidad
+          figure
+            img.mb-3(src='@/assets/curso/Tema1/fig17.svg', alt='Diagrama de Venn que representa el desarrollo sostenible como la intersección de tres dimensiones: social, económica y medioambiental. La unión entre lo social y lo económico es “equitativo”, entre lo económico y lo ambiental es “viable”, y entre lo social y lo ambiental es “vivible”.')
+          figcaption Fuente: https://responsabilidadsocial.net/sostenibilidad-que-es-definicion-concepto-tipos-y-ejemplos/
+
+      .row.justify-content-start.mb-3(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-10.col-12
+          .d-flex.align-items-center.mt-4
+            img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
+            h3.bg2.py-2.w-card-text Objetivos de Desarrollo Sostenible (ODS) para el 2030
+
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
+        .col-lg-9 
+          p Son un conjunto de 17 objetivos globales interconectados, adoptados por las Naciones Unidas en 2015 como parte de la Agenda 2030 para el desarrollo sostenible. Su propósito principal es abordar los desafíos más apremiantes que enfrenta el mundo y asegurar un futuro sostenible para todos.
+          .row.justify-content-center.align-items-stretch.mb-4(data-aos="fade-left")
+            .col-lg-6.p-0.d-none.d-lg-block.h-100
+              img.h-100.w-100(src='@/assets/curso/Tema1/img09.png', alt='', style="object-fit: cover")
+            .col-lg-6.col-sm-12.align-content-center.bg8.pc-3.p-4
+              p Estos objetivos abarcan una amplia gama de temas cruciales, incluyendo la erradicación de la pobreza y el hambre, la promoción de la salud y el bienestar, la garantía de una educación de calidad, la igualdad de género, el acceso a agua limpia y saneamiento, la energía asequible y no contaminante, el crecimiento económico sostenible y el trabajo decente, la construcción de infraestructuras resilientes, la reducción de las desigualdades, la creación de ciudades y comunidades sostenibles, la promoción de la producción y el consumo responsables, la adopción de medidas urgentes contra el cambio climático, la conservación de los océanos y los ecosistemas terrestres, el fomento de la paz, la justicia y las instituciones sólidas, y el fortalecimiento de las alianzas globales para lograr estos objetivos.
+        .col-lg-3.d-none.d-lg-block
+          img(src="@/assets/curso/Tema1/img08.png")
+
+
+      .row.justify-content-center.align-items-center.mb-2.bgtema17.p-4(data-aos="zoom-in-left")
+        .col-lg-10.mb-4
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 18.
+            span  Objetivos de desarrollo sostenible por la ONU
+          figure
+            img.mb-3(src='@/assets/curso/Tema1/fig18.png', alt='Iconos de los 17 Objetivos de Desarrollo Sostenible de la ONU, que abordan desafíos sociales, económicos y ambientales para lograr un futuro sostenible.')
+          figcaption Fuente: https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/
+        p La Agenda 2030 busca un enfoque integrado, reconociendo que el progreso en un área afecta los resultados en otras, y que el desarrollo debe equilibrar la sostenibilidad económica, social y ambiental. Los ODS son un llamado a la acción para todos los países (desarrollados y en desarrollo) y para todos los actores (gobiernos, sector privado, sociedad civil y ciudadanos) para trabajar de manera colaborativa en la consecución de un mundo más justo, próspero y sostenible para el año 2030.
 
 
 
@@ -421,4 +604,17 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: #F8CD20
+  //background-color: $color-acento-contenido
+  //color: $white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+</style>
