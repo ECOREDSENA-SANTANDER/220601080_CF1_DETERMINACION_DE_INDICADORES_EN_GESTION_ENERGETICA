@@ -550,7 +550,7 @@
         .col-lg-10.mb-4
           .titulo-sexto.color-acento-contenido
             h5 Figura 18.
-            span  Objetivos de desarrollo sostenible por la ONU
+            span  Objetivos de desarrollo sostenible por la ONUUUU
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig18.png', alt='Iconos de los 17 Objetivos de Desarrollo Sostenible de la ONU, que abordan desafíos sociales, económicos y ambientales para lograr un futuro sostenible.')
           figcaption Fuente: https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/
