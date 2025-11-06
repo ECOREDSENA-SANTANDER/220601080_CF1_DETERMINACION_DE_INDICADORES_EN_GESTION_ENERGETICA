@@ -100,11 +100,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8
-          .titulo-sexto.color-acento-contenido.mb-4
+          .titulo-sexto.color-acento-contenido.mb-4(alt='La tabla muestra conversiones de energía entre kWh, joules, megajoules, BTU, termia, calorías y kilocalorías.')
             h5 Tabla 1. 
             span Conversión entre diferentes unidades
           .tabla-a.color-acento-contenido 
-            table(alt='La tabla muestra conversiones de energía entre kWh, joules, megajoules, BTU, termia, calorías y kilocalorías.')
+            table
               thead
                 tr
                   th.texto-izquierda.bg6.w-25 Unidad original
@@ -152,7 +152,7 @@
                   td Kilovatio - hora (kWh)
                   td 1 kcal ≈ 1.162 × 10⁻³ kWh
 
-          figcaption #[b Nota:] IT hace referencia a la sigla en inglés #[em #[b International Table]] (tabla internacional), que se utiliza como estándar para definir valores de conversión precisos.
+          figcaption #[b Nota: IT] hace referencia a la sigla en inglés #[em #[b International Table]] (tabla internacional), que se utiliza como estándar para definir valores de conversión precisos.
 
     p.mb-4 A continuación, algunos elementos clave para el estudio de las unidades de energía:
 
@@ -186,7 +186,7 @@
 
     separador
     #t_2_2.titulo-segundo.mb-5
-      h2 2.2. Medición y equipos de medición de la energía (introducción)
+      h2 2.2. Medición y equipos de medición de la energía
 
     p.mb-4 Para poder gestionar y analizar el consumo energético, es fundamental medirlo de manera precisa. En esta introducción, conocerá algunos de los equipos básicos utilizados para la medición: 
 

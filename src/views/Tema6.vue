@@ -49,7 +49,7 @@
               .col-6.col-md-4
                 img(src='@/assets/curso/Tema6/3.svg' alt='')
             h5.text-center.bg1.p-1.text-white Establecimiento de líneas base
-            p.text-center Proporciona datos históricos detallados para establecer líneas base energéticas (LBE) confiables, que son cruciales para medir el progreso de las iniciativas de eficiencia energética.
+            p.text-center Proporciona datos históricos detallados para establecer  Líneas Base Energéticas (LBE) confiables, que son cruciales para medir el progreso de las iniciativas de eficiencia energética.
           
           .tarjeta.bg9.p-4
             .row.justify-content-center.mb-3
@@ -98,7 +98,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Facturas de servicios públicos")
             .col-md-12.mb-4.mb-md-0
-              p Electricidad, gas natural, agua (si se utiliza para calefacción o refrigeración), combustibles (diésel, fueloil).
+              p Electricidad, gas natural, agua (si se utiliza para calefacción o refrigeración), combustibles (diésel, #[em fueloil]).
           .row(titulo="Contadores internos o submedidores")
             .col-md-12.mb-4.mb-md-0
               p Instalados en áreas, procesos o equipos específicos para un seguimiento más detallado.
@@ -137,7 +137,7 @@
       .col-sm-12.col-lg-10.col-12
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
-          h3.bg2.py-2.w-card-text Organización de Datos
+          h3.bg2.py-2.w-card-text Organización de datos
 
     p.mb-4 Una vez recolectados, los datos deben organizarse de manera lógica para su posterior análisis. Esto puede incluir: 
 
@@ -180,9 +180,9 @@
             .row.justify-content-center.py-2
               .col-md-6.mb-4.mb-md-0
                 h4.mb-4 Análisis diario
-                p Analizar el consumo por día de la semana puede mostrar variaciones relacionadas con los niveles de actividad (por ejemplo, menor consumo los fines de semana). Esto ayuda a optimizar la operación de los equipos y sistemas según los horarios de funcionamiento reales.
+                p Analizar el consumo por día de la semana puede mostrar variaciones relacionadas con los niveles de actividad (por ejemplo: menor consumo los fines de semana). Esto ayuda a optimizar la operación de los equipos y sistemas según los horarios de funcionamiento reales.
               .col-md-5
-                img(src='@/assets/curso/Tema6/im1.png', alt='')
+                img(src='@/assets/curso/Tema6/im2.png', alt='')
             
             .row.justify-content-center.py-2
               .col-md-6.mb-4.mb-md-0
@@ -206,7 +206,7 @@
           .col-lg-5.p-0.d-none.d-lg-block.h-100
             img.h-100.w-100(src='@/assets/curso/Tema6/img06.png', alt='', style="object-fit: cover")
           .col-lg-7.col-sm-12.align-content-center.bg4.pc-3.p-4
-            h4.bg1.p-1.col-lg-7.text-white Herramientas para el análisis de patrones
+      
             ul.lista-ul--color
               li.d-flex
                 i.fas.fa-angle-right2
@@ -219,7 +219,7 @@
                 p.mb-2 #[b Gráficos de caja y bigotes:] para mostrar la distribución del consumo y los valores atípicos.
               li.d-flex
                 i.fas.fa-angle-right2
-                p.mb-0 #[b Mapas de calor:] para visualizar patrones de consumo en matrices de tiempo (por ejemplo, horas del día vs. días de la semana).
+                p.mb-0 #[b Mapas de calor:] para visualizar patrones de consumo en matrices de tiempo (por ejemplo: horas del día vs. días de la semana).
    
 
     p El análisis de datos a lo largo del tiempo permite identificar tendencias (aumentos o disminuciones graduales del consumo) y variaciones (fluctuaciones cíclicas o estacionales). 
@@ -243,7 +243,7 @@
                 .col-9
                   .bg-color.w-fit.px-4
                     h2 Variaciones
-              p Pueden estar relacionadas con
+              p Pueden estar relacionadas con:
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-angle-right2
@@ -375,11 +375,30 @@
 
     separador
     #t_6_2.titulo-segundo.mb-5
-      h2 6.2. #[em Benchmarking] interno y externo (introducción)
+      h2 6.2. #[em Benchmarking] interno y externo
 
-    p.mb-3 El benchmarking es un proceso de comparación del desempeño energético de una organización o parte de ella con el de otras entidades (externo) o con períodos anteriores dentro de la misma organización (interno). Es una herramienta poderosa para identificar oportunidades de mejora y establecer objetivos realistas. 
+    p.mb-3 El #[em benchmarking] es un proceso de comparación del desempeño energético de una organización o parte de ella con el de otras entidades (externo) o con períodos anteriores dentro de la misma organización (interno). Es una herramienta poderosa para identificar oportunidades de mejora y establecer objetivos realistas. 
 
-    TabsB.color-acento-contenido.escala-grises
+    TabsB.color-acento-contenido.escala-grises.mb-4
+      .py-4.py-md-5(titulo="<i>Benchmarking</i> interno " :icono="require('@/assets/curso/Tema6/interno.svg')")
+        .row.justify-content-center
+          .col-lg-7.mb-4.mb-md-0
+            h4 #[em Benchmarking] interno
+            ul.lista-ul--color
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación entre áreas o departamentos:] analizar el consumo energético de diferentes áreas funcionales dentro de la misma organización para identificar las más eficientes y las que tienen margen de mejora.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación temporal:] evaluar el desempeño energético actual con el de períodos anteriores para identificar tendencias y medir el impacto de las acciones implementadas.
+                li.d-flex
+                  i.fas.fa-angle-right2
+                  p.mb-0 #[b Comparación entre equipos o procesos similares:] analizar el consumo de energía de equipos o procesos idénticos para identificar las mejores prácticas operativas.
+          .col-lg-3.col-md-6
+            figure
+              img(src='@/assets/curso/Tema6/img11.svg', alt='Texto que describa la imagen')
+
+      
       .py-4.py-md-5(titulo="<i>Benchmarking</i> externo " :icono="require('@/assets/curso/Tema6/externo.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
@@ -399,24 +418,11 @@
               img(src='@/assets/curso/Tema6/img10.svg', alt='Texto que describa la imagen')
 
       
-      .py-4.py-md-5(titulo="<i>Benchmarking</i> interno " :icono="require('@/assets/curso/Tema6/interno.svg')")
-        .row.justify-content-center
-          .col-lg-7.mb-4.mb-md-0
-            h4 #[em Benchmarking] interno
-            ul.lista-ul--color
-                li.d-flex
-                  i.fas.fa-angle-right2
-                  p.mb-0 #[b Comparación entre áreas o departamentos:] analizar el consumo energético de diferentes áreas funcionales dentro de la misma organización para identificar las más eficientes y las que tienen margen de mejora.
-                li.d-flex
-                  i.fas.fa-angle-right2
-                  p.mb-0 #[b Comparación temporal:] evaluar el desempeño energético actual con el de períodos anteriores para identificar tendencias y medir el impacto de las acciones implementadas.
-                li.d-flex
-                  i.fas.fa-angle-right2
-                  p.mb-0 #[b Comparación entre equipos o procesos similares:] analizar el consumo de energía de equipos o procesos idénticos para identificar las mejores prácticas operativas.
-          .col-lg-3.col-md-6
-            figure
-              img(src='@/assets/curso/Tema6/img11.svg', alt='Texto que describa la imagen')
-
+    .row.justify-content-center.align-items-center.mb-3.bg3.p-4
+        .col-lg-1.col-4.mb-3
+          img(src="@/assets/curso/Tema1/rayo.svg")
+        .col-lg-11
+          p El fortalecimiento de competencias en gestión energética permite afrontar los desafíos actuales con visión estratégica y criterio técnico. Este componente integra herramientas prácticas para el diagnóstico y control del consumo energético, al tiempo que promueve una conciencia crítica frente a la sostenibilidad y la mejora continua. Su desarrollo abarca los distintos tipos y formas de energía, sus aplicaciones más relevantes y su función esencial en procesos industriales y comerciales.    
 
 
 

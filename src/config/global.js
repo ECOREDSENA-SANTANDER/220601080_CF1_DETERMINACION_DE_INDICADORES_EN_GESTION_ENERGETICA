@@ -1,6 +1,7 @@
 export default {
   global: {
-    Name: 'Diagnóstico energético según ISO 50001',
+    Name:
+      'Diagnosticar variables de consumo energético de acuerdo con criterios de la norma ISO 50001',
     Description:
       'El contenido aborda los fundamentos esenciales de la gestión energética y los lineamientos de la norma ISO 50001, brindando herramientas para diagnosticar las variables críticas de consumo dentro de una organización. A partir de este diagnóstico, se trabaja en la formulación de métricas clave que permitan monitorear, evaluar y mejorar el desempeño energético. Se estudian distintas metodologías de cálculo e implementación, destacando su utilidad en el seguimiento y la mejora continua, así como en la toma de decisiones estratégicas orientadas a la eficiencia y sostenibilidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
@@ -62,8 +63,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo:
-              'Medición y equipos de medición de la energía (introducción)',
+            titulo: 'Medición y equipos de medición de la energía',
             hash: 't_2_2',
           },
         ],
@@ -123,7 +123,7 @@ export default {
           },
           {
             numero: '6.2',
-            titulo: '<i>Benchmarking</i> interno y externo (introducción)',
+            titulo: '<i>Benchmarking</i> interno y externo',
             hash: 't_6_2',
           },
         ],
@@ -176,93 +176,97 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1: Tipos y Formas de Energía',
-      referencia: '(Es Ciencia, 2022)',
+      tema: 'Tipos y formas de energía',
+      referencia: 'Es Ciencia. (12 de septiembre 2021). Tipos de energía.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=boJpgNIY54Y&ab_channel=EsCiencia ',
+      link: 'https://www.youtube.com/watch?v=boJpgNIY54Y&ab_channel=EsCiencia',
     },
     {
-      tema: 'Tema 2: Unidades de Medida de la Energía',
-      referencia: '(Academia Kaussal, 2023)',
+      tema: 'Unidades de medida de la energía',
+      referencia:
+        'Academia Kaussal. (2 de septiembre de 2022). Unidades de medidas eléctricas. ¿Cuáles son las más utilizadas?',
       tipo: 'Video',
       link:
-        'https://www.youtube.com/watch?v=s9TLe_T9ICY&ab_channel=AcademiaKaussal',
+        'https://www.youtube.com/watch?v=s9TLe_T9ICY&ab_channel=AcademiaKaussa',
     },
     {
-      tema: 'Tema 3: Conceptos Fundamentales de Eficiencia Energética',
-      referencia: '(Academia Kaussal, 2023)',
+      tema: 'Conceptos fundamentales de eficiencia energética',
+      referencia:
+        'BUSLeague H2020. (11 de enero de 2022). Eficiencia energética y ahorro de energía en las edificaciones: Conceptos básicos.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=S5EQ8axnSmM&ab_channel=BUSLeagueH2020',
     },
     {
-      tema: 'Tema 4: Identificación de Variables de Consumo Energético',
-      referencia: '(BUSLeague H2020, 2022)',
-      tipo: 'Video',
+      tema: 'Identificación de variables de consumo energético',
+      referencia:
+        'Hsu, D. (2015). Identifying key variables and interactions in statistical models of building energy consumption using regularization. Energy, 83, 144–155.',
+      tipo: 'Artículo',
       link:
-        'https://www.youtube.com/watch?v=EJWx9Hndy5o&ab_channel=GeocienciasTincopa%28CienciasdelaTierra%29',
+        'https://www.sciencedirect.com/science/article/pii/S0360544215001590 ',
     },
     {
-      tema: 'Tema 5: Procesos Consumidores de Energía',
-      referencia: '(Geociencias Tincopa (Ciencias de la Tierra), 2021)',
+      tema: 'Procesos consumidores de energía',
+      referencia:
+        'Geociencias Tíncopa (Ciencia de la Tierra). (24 de junio de 2020).',
       tipo: 'Video',
       link:
-        'https://www.youtube.com/watch?v=EJWx9Hndy5o&ab_channel=GeocienciasTincopa%28CienciasdelaTierra%29 ',
+        'https://www.youtube.com/watch?v=EJWx9Hndy5o&ab_channel=GeocienciasTincopa%28CienciasdelaTierra%29  ',
     },
     {
-      tema: 'Tema 6: Caracterización del Consumo Energético',
-      referencia: '(David Alejandro Sifuentes Godoy, 2024)',
+      tema: 'Caracterización del consumo energético',
+      referencia:
+        'Sifuentes Godoy, D. A. (2022 de marzo de 2024). Caracterización del consumo energético. Análisis de datos.',
       tipo: 'Video',
       link:
-        'https://www.youtube.com/watch?v=UT8yR_e-4wo&ab_channel=DavidAlejandroSifuentesGodoy',
+        'https://www.youtube.com/watch?v=UT8yR_e-4wo&ab_channel=DavidAlejandroSifuentesGodoy ',
     },
   ],
   glosario: [
     {
-      termino: 'Energía Primaria',
+      termino: 'Energía primaria',
       significado:
         'Energía que se encuentra directamente en la naturaleza (combustibles fósiles, solar, eólica, etc.).',
     },
     {
-      termino: 'Energía Secundaria',
+      termino: 'Energía secundaria',
       significado:
         'Energía obtenida de la transformación de la energía primaria (electricidad, combustibles refinados).',
     },
     {
-      termino: 'Energía Convencional',
+      termino: 'Energía convencional',
       significado:
         'Energía proveniente de fuentes limitadas (combustibles fósiles, nuclear).',
     },
     {
-      termino: 'Energía No Renovable',
-      significado: 'Sinónimo de Energía Convencional.',
+      termino: 'Energía no renovable',
+      significado: 'Sinónimo de energía convencional.',
     },
     {
-      termino: 'Energía Renovable',
+      termino: 'Energía renovable',
       significado:
         'Energía proveniente de fuentes que se reponen naturalmente (solar, eólica, biomasa, geotérmica).',
     },
     {
-      termino: 'Combustibles Fósiles',
+      termino: 'Combustibles fósiles',
       significado:
         'Recursos energéticos como el petróleo, el gas natural y el carbón, formados a partir de materia orgánica fósil.',
     },
     {
-      termino: 'Energía Nuclear',
+      termino: 'Energía nuclear',
       significado:
         'Energía liberada por reacciones nucleares, como la fisión o la fusión.',
     },
     {
-      termino: 'Energía Hidroeléctrica',
+      termino: 'Energía hidroeléctrica',
       significado: 'Energía obtenida del movimiento del agua.',
     },
     {
-      termino: 'Energía Solar',
+      termino: 'Energía solar',
       significado: 'Energía proveniente de la radiación del sol.',
     },
-
     {
-      termino: 'Energía Eólica',
+      termino: 'Energía eólica',
       significado: 'Energía obtenida del viento.',
     },
     {
@@ -271,7 +275,7 @@ export default {
         'Materia orgánica de origen vegetal o animal utilizada como fuente de energía.',
     },
     {
-      termino: 'Energía Geotérmica',
+      termino: 'Energía geotérmica',
       significado: 'Energía térmica proveniente del interior de la Tierra.',
     },
     {
@@ -287,59 +291,6 @@ export default {
       termino: 'Watt (W)',
       significado:
         'Unidad de potencia en el SI (energía por unidad de tiempo).',
-    },
-    {
-      termino: 'Kilowatt-hora (kWh)',
-      significado: 'Unidad común de energía eléctrica (1 kWh = 3.6 x 10^6 J).',
-    },
-    {
-      termino: 'BTU (British Thermal Unit)',
-      significado:
-        'Unidad de energía utilizada en algunos países, especialmente para medir el calor.',
-    },
-    {
-      termino: 'Termia (th)',
-      significado:
-        'Unidad de energía, a menudo utilizada para medir el consumo de gas.',
-    },
-    {
-      termino: 'Eficiencia Energética',
-      significado:
-        'Relación entre la energía obtenida y la energía suministrada a un sistema o proceso.',
-    },
-    {
-      termino: 'Gestión Energética',
-      significado:
-        'Proceso sistemático para optimizar el uso y el consumo de energía en una organización.',
-    },
-    {
-      termino: 'ISO (Organización Internacional de Normalización)',
-      significado: 'Organización que desarrolla normas internacionales.',
-    },
-    {
-      termino: 'ISO 50001',
-      significado:
-        'Norma internacional para sistemas de gestión de la energía.',
-    },
-    {
-      termino: 'Variables de Consumo Energético',
-      significado:
-        'Factores que influyen en la cantidad de energía utilizada por una organización.',
-    },
-    {
-      termino: 'Proceso Consumidor de Energía',
-      significado:
-        'Actividad o conjunto de actividades dentro de una organización que utiliza energía.',
-    },
-    {
-      termino: 'Diagrama de Flujo de Energía',
-      significado:
-        'Representación visual del flujo de energía a través de un proceso.',
-    },
-    {
-      termino: 'Benchmarking (Energético)',
-      significado:
-        'Proceso de comparación del desempeño energético con otras entidades o períodos anteriores.',
     },
   ],
   referencias: [
@@ -435,7 +386,7 @@ export default {
       autores: [
         {
           nombre: 'Gianmarco Serrano Cabarcas',
-          cargo: 'Experto temático electricidad',
+          cargo: 'Experto temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

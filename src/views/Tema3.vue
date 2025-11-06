@@ -7,7 +7,7 @@
         span 3
       h1 Conceptos fundamentales de eficiencia energética
 
-    p.mb-4 La eficiencia energética se refiere a la capacidad de lograr un mismo resultado (por ejemplo, producir un bien, prestar un servicio, mantener un nivel de confort) utilizando menos energía. No se trata de consumir menos, sino de consumir de manera más inteligente. 
+    p.mb-4 La eficiencia energética se refiere a la capacidad de lograr un mismo resultado (por ejemplo: producir un bien, prestar un servicio, mantener un nivel de confort) utilizando menos energía. No se trata de consumir menos, sino de consumir de manera más inteligente. 
     h5 Importancia: 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
@@ -105,7 +105,7 @@
       h2 3.1. Organización Internacional de Normalización (ISO)
 
 
-    p.mb-4 ISO es una organización internacional no gubernamental e independiente que desarrolla y publica una amplia gama de normas internacionales para asegurar la calidad, seguridad y eficiencia de productos, servicios y sistemas. Su nombre proviene del griego “isos”, que significa “igual”, reflejando su objetivo de estandarización a nivel global. 
+    p.mb-4 ISO es una organización internacional no gubernamental e independiente que desarrolla y publica una amplia gama de normas internacionales para asegurar la calidad, seguridad y eficiencia de productos, servicios y sistemas. Su nombre proviene del griego “#[em isos]”, que significa “igual”, reflejando su objetivo de estandarización a nivel global. 
 
     .row.justify-content-center.mb-3
       .col-lg-5.bg10.p-4.align-content-center.mb-4

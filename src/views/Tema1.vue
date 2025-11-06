@@ -74,7 +74,7 @@
             span  Energía primaria y secundaria
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig1.svg', alt='Diagrama que muestra la transformación de la energía primaria (como petróleo crudo, viento y biomasa) en energía secundaria (como electricidad, biocombustibles y productos del petróleo) hasta su consumo final.')
-          figcaption.des Fuente: https://stem.guide/topic/fuentes-de-energia-primaria-y-secundaria/?lang=es
+          figcaption.des Fuente: Watt Watchers of Texas, (2024).
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-10.col-12
@@ -158,7 +158,7 @@
 
             .row.justify-content-center(titulo="Petróleo")
               .col-md-11.mb-4.mb-md-0
-                p La palabra petróleo deriva del griego petra (piedra) y óleum (aceite), aceite de roca y se utilizó también en latín. El petróleo se formó a partir de los restos de organismos marinos antiguos, como plantas, algas y bacterias, sepultados por el movimiento de placas de la corteza terrestre y sometida durante millones de años a altas temperaturas y muy altas presiones, los compuestos que formaban a estos seres vivos se transformaron en fósiles orgánicos ricos en carbono e hidrógeno. Se definen como hidrocarburos a los compuestos que están constituidos principalmente por carbono (C) e hidrógeno (H). No debe confundirse con los carbohidratos, aunque las palabras se parecen, estos últimos contienen oxígeno en su fórmula.
+                p La palabra petróleo deriva del griego #[em petra] (piedra) y #[em óleum] (aceite), aceite de roca y se utilizó también en latín. El petróleo se formó a partir de los restos de organismos marinos antiguos, como plantas, algas y bacterias, sepultados por el movimiento de placas de la corteza terrestre y sometida durante millones de años a altas temperaturas y muy altas presiones, los compuestos que formaban a estos seres vivos se transformaron en fósiles orgánicos ricos en carbono e hidrógeno. Se definen como hidrocarburos a los compuestos que están constituidos principalmente por carbono (C) e hidrógeno (H). No debe confundirse con los carbohidratos, aunque las palabras se parecen, estos últimos contienen oxígeno en su fórmula.
                 p En muchos lugares del mundo se encontró desde la antigüedad que, como resultado de fracturas en la corteza terrestre, aparecían derrames de un líquido viscoso negro que podía inflamarse y servir en algunas lámparas de aceite. 
                 p.mb-4 Físicamente, el petróleo crudo es un líquido viscoso generalmente de color negro y en ocasiones amarillo. Coloquialmente se le conoce como “el oro negro”. El petróleo crudo es una mezcla heterogénea y compleja de compuestos orgánicos: hay gases, líquidos y sólidos, la mayoría insolubles en agua. Adicionalmente, el petróleo crudo contiene en menor cantidad algunos compuestos que contienen: oxígeno (O), nitrógeno (N), azufre (S) y metales como el sodio (Na), vanadio (V), níquel (Ni), hierro (Fe), cobre (Cu). En la industria, estas impurezas deben ser eliminadas durante el proceso de refinación para obtener productos derivados de mayor calidad.
               .row.justify-content-center.align-items-center.mb-4
@@ -167,17 +167,17 @@
                     h5 Figura 4.
                     span  Composición promedio del crudo extraído del subsuelo
                   figure
-                    img.mb-3(src='@/assets/curso/Tema1/fig4.svg', alt='Diagrama que muestra la composición química promedio del petróleo crudo. Incluye: carbono, hidrógeno, azufre, oxígeno, nitrógeno y trazas de metales como sodio, níquel, vanadio, hierro y cobre. NOTA: dados en porcentaje en peso (%)')
+                    img.mb-3(src='@/assets/curso/Tema1/fig4.svg', alt='Diagrama que muestra la composición química promedio del petróleo crudo. Incluye: carbono, hidrógeno, azufre, oxígeno, nitrógeno y trazas de metales como sodio, níquel, vanadio, hierro y cobre. Nota: dados en porcentaje en peso (%)')
                     figcaption.des Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
               .col-md-11.mb-4.mb-md-0
-                p.mb-4 Con frecuencia se escucha hablar de los crudos ligeros, los pesados e incluso, los extrapesados. Esta clasificación del petróleo se basa en su densidad, es decir, la masa que tiene un determinado volumen de petróleo, lo que está estrechamente ligado con su composición química. En el ámbito petrolero, se emplean los grados API (°API), de sus siglas en inglés American Petroleum Institute, para definirla, siendo los °API inversos a la densidad, mientras más altos los °API, más ligero es el crudo.  
+                p.mb-4 Con frecuencia se escucha hablar de los crudos ligeros, los pesados e incluso, los extrapesados. Esta clasificación del petróleo se basa en su densidad, es decir, la masa que tiene un determinado volumen de petróleo, lo que está estrechamente ligado con su composición química. En el ámbito petrolero, se emplean los grados API (°API), de sus siglas en inglés #[em American Petroleum Institute], para definirla, siendo los °API inversos a la densidad, mientras más altos los °API, más ligero es el crudo.  
               .row.justify-content-center.align-items-center.mb-4
                 .col-lg-6
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 5.
                     span  Clasificación del petróleo crudo según su densidad API
                   figure
-                    img.mb-3(src='@/assets/curso/Tema1/fig5.svg', alt='TGráfico que muestra la clasificación del petróleo crudo según su densidad API. Se divide en cinco categorías: extrapesado, pesado, mediano, ligero  y súper ligero.')
+                    img.mb-3(src='@/assets/curso/Tema1/fig5.svg', alt='Gráfico que muestra la clasificación del petróleo crudo según su densidad API. Se divide en cinco categorías: extrapesado, pesado, mediano, ligero  y súper ligero.')
                     figcaption.des Fuente: https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i
             .row.justify-content-center(titulo="Gas natural")
               .col-md-11.mb-4.mb-md-0
@@ -302,7 +302,7 @@
         .col-lg-5.mb-3
           img(src="@/assets/curso/Tema1/img04.png")
         .col-lg-7
-          h5 Aprovecha la energía cinética del viento mediante turbinas eólicas (aerogeneradores) para generar electricidad. Es una fuente limpia y abundante en muchas regiones. 
+          p Aprovecha la energía cinética del viento mediante turbinas eólicas (aerogeneradores) para generar electricidad. Es una fuente limpia y abundante en muchas regiones. 
           .row.justify-content-center
             .col-lg-2.col-4.mb-3
               img(src="@/assets/curso/Tema1/rayo.svg")
@@ -330,7 +330,7 @@
                 .col-9
                   .bg-color.w-fit.px-4
                     h2 Aerogeneradores de eje vertical
-              p Su eje de rotación es perpendicular al suelo. Tienen la ventaja de poder capturar el viento desde cualquier dirección sin necesidad de un sistema de orientación. Suelen ser más compactos y pueden instalarse en lugares con limitaciones de espacio o vientos turbulentos. Sin embargo, generalmente son menos eficientes que los HAWT (Horizontal Axis Wind Turbine), turbina eólica de eje horizontal. en la generación de energía, aunque presentan ventajas en términos de menor ruido y menor impacto visual en algunos entornos. Existen varios diseños dentro de los VAWT (Vertical Axis Wind Turbine), turbina eólica de eje vertical, como los tipos Darrieus y Savonius.
+              p Su eje de rotación es perpendicular al suelo. Tienen la ventaja de poder capturar el viento desde cualquier dirección sin necesidad de un sistema de orientación. Suelen ser más compactos y pueden instalarse en lugares con limitaciones de espacio o vientos turbulentos. Sin embargo, generalmente son menos eficientes que los HAWT (#[em Horizontal Axis Wind Turbine]), turbina eólica de eje horizontal. en la generación de energía, aunque presentan ventajas en términos de menor ruido y menor impacto visual en algunos entornos. Existen varios diseños dentro de los VAWT (#[em Vertical Axis Wind Turbine]), turbina eólica de eje vertical, como los tipos Darrieus y Savonius.
 
 
       .row.justify-content-center.align-items-center.mb-5.bgtema13.p-2
@@ -409,7 +409,7 @@
             span  Esquema básico de una central geotérmica
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig15.svg', alt='Esquema de una planta geotérmica que transforma el calor de la tierra en electricidad. El vapor generado mueve una turbina conectada a un alternador, produciendo energía que pasa por un transformador y se distribuye en la red eléctrica. El sistema incluye condensador, bomba y torre de refrigeración.')
-          figcaption.des Fuente: https://amif.mx/como-funciona-una-central-geotermica-y-cuales-son-sus-beneficios/
+          figcaption.des Fuente: Del Río Morales. Y, (2024).
 
 
       separador
@@ -523,7 +523,7 @@
         .col-lg-4
           .titulo-sexto.color-acento-contenido
             h5 Figura 17.
-            span  ESostenibilidad
+            span  Sostenibilidad
           figure
             img.mb-3(src='@/assets/curso/Tema1/fig17.svg', alt='Diagrama de Venn que representa el desarrollo sostenible como la intersección de tres dimensiones: social, económica y medioambiental. La unión entre lo social y lo económico es “equitativo”, entre lo económico y lo ambiental es “viable”, y entre lo social y lo ambiental es “vivible”.')
           figcaption.des Fuente: https://responsabilidadsocial.net/sostenibilidad-que-es-definicion-concepto-tipos-y-ejemplos/

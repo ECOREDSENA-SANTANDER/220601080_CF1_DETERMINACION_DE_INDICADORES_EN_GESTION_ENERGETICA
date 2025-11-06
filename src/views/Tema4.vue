@@ -154,7 +154,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Identifying key variables and interactions in statistical models of building energy consumption using regularization
+                  h4.mb-1 #[em Identifying key variables and interactions in statistical models of building energy consumption using regularization]
                   p.mb-0 Con el fin de ampliar y consolidar los conocimientos abordados, a continuación se presenta un documento complementario que profundiza en los aspectos clave del tema desarrollado.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.sciencedirect.com/science/article/pii/S0360544215001590" target="_blank")

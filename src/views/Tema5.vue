@@ -110,10 +110,10 @@
               p Procesos o equipos tecnológicamente obsoletos o mal mantenidos que tienen un bajo rendimiento energético.
           .row(numero="4" titulo="Variabilidad en la demanda")
             .col-md-12.mb-4.mb-md-0
-              p Analizar los resultados de la verificación,
+              p Procesos cuya demanda de energía fluctúa significativamente según la producción, la ocupación o las condiciones ambientales, lo que puede llevar a un consumo ineficiente en momentos de baja demanda.
           .row(numero="5" titulo="Pérdidas significativas")
             .col-md-12.mb-4.mb-md-0
-              p Procesos cuya demanda de energía fluctúa significativamente según la producción, la ocupación o las condiciones ambientales, lo que puede llevar a un consumo ineficiente en momentos de baja demanda.
+              p Procesos donde una gran parte de la energía suministrada se pierde en forma de calor, fricción, fugas, etc.
       .col-lg-6.col-10.col-md-8
         img(src="@/assets/curso/Tema5/img03.png")
 

@@ -10,7 +10,7 @@
     
     p.mb-4 El fortalecimiento de competencias en gestión energética constituye el eje central de este recurso. Su propósito es proporcionar herramientas que permitan comprender, diagnosticar y formular indicadores orientados a mejorar el desempeño energético en las organizaciones, conforme a los lineamientos establecidos por la norma ISO 50001.
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade").mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/portada/img01.jpg')})`}"
       )
@@ -20,7 +20,13 @@
         br
         br
           
-         
+    .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          figure
+            .video
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/nkZuirJxYJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video: Diagnosticar variables de consumo energético de acuerdo con criterios de la norma ISO 50001
+      
 
 </template>
 
