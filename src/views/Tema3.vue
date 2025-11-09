@@ -35,11 +35,11 @@
     .row.justify-content-center.align-items-center.mb-2.bgtema3.p-4
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 26.
+          h5 Figura 24.
           span  Beneficios de la eficiencia energética
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig26.svg', alt='Diagrama circular que destaca los beneficios de la eficiencia energética. En el centro se encuentra el término “Eficiencia Energética” rodeado por ocho beneficios: ahorro energético, cuidado del medio ambiente, disminución en el recibo de luz, ahorro económico, responsabilidad social corporativa, disminución de emisiones de CO₂, cálculo del ahorro energético y desarrollo sostenible. Cada beneficio está representado con un ícono alusivo.')
-          figcaption.des Fuente: https://solger.com.co/eficiencia-energetica-2/
+         
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.col-12
@@ -77,11 +77,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 27.
+          h5 Figura 25.
           span  Ventajas de la gestión energética
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig27.svg', alt='Gráfico circular que muestra las ventajas de la gestión energética. En el centro aparece “Eficiencia energética” y alrededor se destacan cuatro beneficios: ahorro económico (ícono de moneda), reducción de emisiones de CO₂ (ícono de nube), mejora en la competitividad (ícono de insignia) y mayor conocimiento del uso energético (ícono de cabeza con engranajes).')
-          figcaption.des Fuente: https://www.creara.es/gestion-energetica/ 
+         
 
 
     .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
@@ -112,10 +112,11 @@
         p Fundada en 1947, ISO cuenta con representaciones de organismos de normalización de numerosos países y ha publicado miles de normas que abarcan prácticamente todos los sectores, desde la tecnología hasta la gestión de la calidad y la protección ambiental. Estas normas son voluntarias, pero su adopción facilita el comercio internacional, mejora la confianza del consumidor y promueve las mejores prácticas en diversas industrias.
       .col-lg-3
         .titulo-sexto.color-acento-contenido
-          h5 Figura 28.
+          h5 Figura 26.
           span  Logotipo de ISO 
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig28.svg', alt='Logotipo de la ISO (International Organization for Standardization). A la izquierda, aparece un globo con las letras “ISO” en grande dentro de un recuadro azul. A la derecha, el nombre completo de la organización escrito en inglés: International Organization for Standardization.')
+        figcaption.des Fuente: Departamento de Consultoría, (2025).
       .col-lg-4
         .row.align-items-center
           .col-lg-3.mb-3.col-3
@@ -267,14 +268,14 @@
 
     p.mb-4 Estos criterios proporcionan un marco estructurado para que las organizaciones gestionen su energía de manera sistemática, logrando mejoras en la eficiencia, reducción de costos y disminución del impacto ambiental.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4.bgtema13.p-2
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 29.
+          h5 Figura 27.
           span  Esquema de aplicación de ISO 50001
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig29.svg', alt='Diagrama del ciclo de gestión energética basado en mejora continua. Incluye política, planificación, implementación, verificación, auditoría, acciones correctivas y revisión por la gerencia.')
-        figcaption.des Fuente: https://geoinnova.org/blog-territorio/iso-50001-sistema-de-gestion-energetica/
+        figcaption.des Fuente: Rodríguez, M. (2026).
 
     p.mb-4 La norma ISO 50001 es de tipo voluntaria, y al igual que otras normas ISO es genérica, por lo que puede ser aplicada a todas las organizaciones sin importar su tipo, tamaño o actividad. Sin embargo, como en todo proceso de implementación de un sistema de gestión, el apoyo y compromiso de la alta dirección es fundamental para asegurar la disponibilidad de recursos necesarios para el logro de los objetivos planteados.
 

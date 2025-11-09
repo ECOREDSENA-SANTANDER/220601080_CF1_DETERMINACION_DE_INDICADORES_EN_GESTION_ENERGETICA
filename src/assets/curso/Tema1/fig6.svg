@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="610" height="483.149" viewBox="0 0 610 483.149">
   <g id="Grupo_1103041" data-name="Grupo 1103041" transform="translate(-600 -8272.909)">
     <rect id="Rectángulo_402129" data-name="Rectángulo 402129" width="610" height="483.149" rx="10" transform="translate(600 8272.909)" fill="#fff"/>
-    <text id="Gas_natural_Gas_fósil_" data-name="Gas natural “Gas fósil”" transform="translate(643 8508.559) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-80.387" y="0">Gas natural </tspan><tspan y="0" font-family="Roboto-BoldItalic, Roboto" font-style="italic">“Gas fósil”</tspan></text>
+    <text id="Gas_natural_Gas_fósil_" data-name="Gas natural “Gas fósil”" transform="translate(643 8508.559) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-81.102" y="0">Gas natural “Gas fósil”</tspan></text>
     <text id="Líquidos_de_gas_natural" data-name="Líquidos 
 de gas 
 natural" transform="translate(717 8664.559)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.359" y="0">Líquidos </tspan><tspan x="-25.676" y="19">de gas </tspan><tspan x="-24.633" y="38">natural</tspan></text>
@@ -12,7 +12,7 @@ natural" transform="translate(717 8664.559)" fill="#12263f" font-size="16" font-
     <rect id="Rectángulo_402134" data-name="Rectángulo 402134" width="397" height="36" transform="translate(790.051 8660.009)" fill="#38b449"/>
     <rect id="Rectángulo_402135" data-name="Rectángulo 402135" width="397" height="36" transform="translate(790.051 8696.009)" fill="#afe1b6"/>
     <text id="Componentes_gas_natural_en_su_forma_primaria" data-name="Componentes gas natural en su forma primaria" transform="translate(886 8315.188)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-169.223" y="0">Componentes gas natural en su forma primaria</tspan></text>
-    <text id="No_hidrocarburos_H2S_CO2_H2O_N2_H2_ETC_" data-name="No hidrocarburos (H2S, CO2, H2O, N2, H2, ETC)" transform="translate(978 8372.338)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-167.926" y="0">No hidrocarburos</tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> (H2S, CO2, H2O, N2, H2, ETC)</tspan></text>
+    <text id="No_hidrocarburos_H2S_CO2_H2O_N2_H2_ETC._" data-name="No hidrocarburos (H2S, CO2, H2O, N2, H2, ETC.)" transform="translate(978 8372.338)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-166.566" y="0">No hidrocarburos</tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> (H2S, CO2, H2O, N2, H2, etc.)</tspan></text>
     <text id="Metano" transform="translate(837 8513.983)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.328" y="0">Metano</tspan></text>
     <text id="Etano" transform="translate(830 8650.509)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.496" y="0">Etano</tspan></text>
     <text id="Propano_y_Butano" data-name="Propano y Butano" transform="translate(874 8683.559)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-63.836" y="0">Propano y Butano</tspan></text>

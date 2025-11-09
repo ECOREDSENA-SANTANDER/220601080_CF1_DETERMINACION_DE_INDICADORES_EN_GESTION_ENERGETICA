@@ -103,7 +103,7 @@
           .titulo-sexto.color-acento-contenido.mb-4(alt='La tabla muestra conversiones de energía entre kWh, joules, megajoules, BTU, termia, calorías y kilocalorías.')
             h5 Tabla 1. 
             span Conversión entre diferentes unidades
-          .tabla-a.color-acento-contenido 
+          .tabla-a.color-acento-contenido(alt='La tabla muestra conversiones de energía entre kWh, joules, megajoules, BTU, termia, calorías y kilocalorías.') 
             table
               thead
                 tr
@@ -201,7 +201,7 @@
                 p Dispositivos que miden la cantidad de energía eléctrica consumida en kWh. Pueden ser electromecánicos o electrónicos (inteligentes).
               .col-md-5
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 21.
+                  h5 Figura 19.
                   span  Medidor de energía eléctrica
                 figure
                   img(src='@/assets/curso/Tema2/fig21.png', alt='Medidor de energía trifásico digital con pantalla electrónica, diseñado para registrar con precisión el consumo eléctrico en instalaciones industriales o comerciales.')
@@ -212,7 +212,7 @@
                 p Miden el volumen de gas natural consumido, generalmente en metros cúbicos o pies cúbicos. Este volumen luego se convierte a unidades de energía (como termias o BTU) utilizando el poder calorífico del gas.
               .col-md-5
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 22.
+                  h5 Figura 20.
                   span  Contador de gas
                 figure
                   img(src='@/assets/curso/Tema2/fig22.png', alt='Medidor de gas natural con su respectivo regulador de presión. El conjunto incluye un contador de volumen con display numérico y conexiones metálicas, diseñado para registrar el consumo de gas en instalaciones residenciales o comerciales.')
@@ -223,7 +223,7 @@
                 p Utilizados para medir el consumo de combustibles líquidos (como fueloil) en litros o galones. Para obtener la energía consumida, se debe conocer el poder calorífico del combustible.
               .col-md-5
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 23.
+                  h5 Figura 21.
                   span  Medidores de flujo de líquidos
                 figure
                   img(src='@/assets/curso/Tema2/fig23.png', alt='Medidor de agua industrial. El dispositivo cuenta con bridas de conexión a ambos lados, una carátula frontal con visor de lectura analógica. Está diseñado para medir grandes volúmenes de agua en redes hidráulicas.')
@@ -234,7 +234,7 @@
                 p Importantes para monitorear sistemas térmicos y calcular la energía transferida en forma de calor.
               .col-md-5
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 24.
+                  h5 Figura 22.
                   span  Sensores de presión y temperatura
                 figure
                   img(src='@/assets/curso/Tema2/fig24.png', alt='Conjunto de sensores y transmisores de presión industriales, incluyendo dispositivos digitales con pantalla, manómetros analógicos y transductores compactos. Estos equipos permiten medir la presión de gases o líquidos en procesos automatizados, facilitando el control y la supervisión eficiente en entornos industriales.')
@@ -245,7 +245,7 @@
                 p Equipos más avanzados que miden diversos parámetros eléctricos (voltaje, corriente, factor de potencia, armónicos) y pueden ayudar a identificar problemas de eficiencia.
               .col-md-5
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 25.
+                  h5 Figura 23.
                   span  Instrumentos de medición convencionales
                 figure
                   img(src='@/assets/curso/Tema2/fig25.png', alt='Conjunto de instrumentos empleados en mediciones eléctricas, entre los que se encuentran multímetros digitales y analógicos, medidores de resistencia, amperímetros, pinzas amperimétricas, un osciloscopio, un medidor de aislamiento y un contador de energía. Estos equipos permiten diagnosticar, verificar y analizar parámetros eléctricos como voltaje, corriente, resistencia y formas de onda en sistemas eléctricos.')

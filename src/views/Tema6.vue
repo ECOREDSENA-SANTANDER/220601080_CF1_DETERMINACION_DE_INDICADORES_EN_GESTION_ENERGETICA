@@ -145,7 +145,7 @@
       .col-lg-10.mb-3
         .row.bg12.p-4
           h4 Creación de bases de datos u hojas de cálculo
-          p Con campos claros para la fecha, hora, fuente de energía, área / proceso, cantidad consumida, unidades de medida y cualquier otra variable relevante (por ejemplo, temperatura exterior, nivel de producción).
+          p Con campos claros para la fecha, hora, fuente de energía, área / proceso, cantidad consumida, unidades de medida y cualquier otra variable relevante (por ejemplo: temperatura exterior, nivel de producción).
         .row.bg13.p-4
           h4 Estandarización de unidades
           p Convertir todas las cantidades de energía a una unidad común (por ejemplo, kWh o MJ) para facilitar la comparación.

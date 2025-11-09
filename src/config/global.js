@@ -200,7 +200,7 @@ export default {
     {
       tema: 'Identificación de variables de consumo energético',
       referencia:
-        'Hsu, D. (2015). Identifying key variables and interactions in statistical models of building energy consumption using regularization. Energy, 83, 144–155.',
+        'Hsu, D. (2015). <i>Identifying key variables and interactions in statistical models of building energy consumption using regularization. Energy</i>, 83, 144–155.',
       tipo: 'Artículo',
       link:
         'https://www.sciencedirect.com/science/article/pii/S0360544215001590 ',

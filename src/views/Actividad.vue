@@ -20,7 +20,7 @@ export default {
       tema: 'Diagnóstico energético según ISO 50001',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente <b>Diagnóstico energético según ISO 50001.</b>',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente Diagnóstico energético según ISO 50001.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
