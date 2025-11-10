@@ -275,7 +275,7 @@
           span  Esquema de aplicación de ISO 50001
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig29.svg', alt='Diagrama del ciclo de gestión energética basado en mejora continua. Incluye política, planificación, implementación, verificación, auditoría, acciones correctivas y revisión por la gerencia.')
-        figcaption.des Fuente: Rodríguez, M. (2026).
+        figcaption.des Fuente: Rodríguez, M. (2016).
 
     p.mb-4 La norma ISO 50001 es de tipo voluntaria, y al igual que otras normas ISO es genérica, por lo que puede ser aplicada a todas las organizaciones sin importar su tipo, tamaño o actividad. Sin embargo, como en todo proceso de implementación de un sistema de gestión, el apoyo y compromiso de la alta dirección es fundamental para asegurar la disponibilidad de recursos necesarios para el logro de los objetivos planteados.
 
