@@ -17,7 +17,7 @@
       .col-sm-12.col-lg-10.col-12
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/Tema2/rayo.svg")
-          h3.bg2.py-2.w-card-text Unidades básicas del Sistema Internacional (SI) relacionadas con la energía (joule, watt)
+          h3.bg2.py-2.w-card-text Unidades básicas del Sistema Internacional (SI) relacionadas con la energía (#[em joule, watt])
 
     TabsC.color-acento-contenido
       .bg3.py-3.py-md-4(titulo="Joule (J)")
@@ -32,15 +32,15 @@
           
   
       
-      .bg3.py-3.py-md-4(titulo="Watt (W)")(data-aos="zoom-in-left")
+      .bg3.py-3.py-md-4(titulo="<i>Watt</i> (W)")(data-aos="zoom-in-left")
         .row.align-items-center.justify-content-center
           .col-md-5.mb-3.col-10
             figure
               img(src='@/assets/curso/Tema2/img03.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.col-11
-            p El watt es la unidad fundamental de potencia en el SI. La potencia es la tasa a la que se transfiere o se consume energía por unidad de tiempo. Un watt equivale a un joule por segundo (1 W = 1 J / s). 
+            p El #[em watt] es la unidad fundamental de potencia en el SI. La potencia es la tasa a la que se transfiere o se consume energía por unidad de tiempo. Un watt equivale a un joule por segundo (1 W = 1 J / s). 
             h5 Ejemplo: 
-            p La potencia de una bombilla eléctrica (cuánta energía consume por segundo) se mide en watt. Un motor tiene una potencia nominal en watt, indicando la tasa a la que puede realizar trabajo.
+            p La potencia de una bombilla eléctrica (cuánta energía consume por segundo) se mide en #[em watt]. Un motor tiene una potencia nominal en #[em watt], indicando la tasa a la que puede realizar trabajo.
 
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -53,10 +53,10 @@
       .col-lg-10
         .row.bg4.p-4
           h4 Kilovatio - hora (kWh)
-          p Esta es una unidad de energía muy común, especialmente para la facturación de electricidad. Un kWh es la cantidad de energía consumida o producida por un dispositivo de un kilovatio (1000 watts) funcionando durante una hora. 
-          p #[b Ejemplo:] si una bombilla de 100 watts se mantiene encendida durante 10 horas, consume 100 W * 10 h = 1000 Wh = 1 kWh de energía.
+          p Esta es una unidad de energía muy común, especialmente para la facturación de electricidad. Un kWh es la cantidad de energía consumida o producida por un dispositivo de un kilovatio (1000 #[em watts]) funcionando durante una hora. 
+          p #[b Ejemplo:] si una bombilla de 100 #[em watts] se mantiene encendida durante 10 horas, consume 100 W * 10 h = 1000 Wh = 1 kWh de energía.
         .row.bg5.p-4
-          h4 British Thermal Unit (BTU) o Unidad Térmica Británica
+          h4 #[em British Thermal Unit ](BTU) o Unidad Térmica Británica
           p Es una unidad de energía utilizada principalmente en los Estados Unidos y en algunos contextos de calefacción y refrigeración. Un BTU es aproximadamente la cantidad de energía necesaria para elevar la temperatura de una libra de agua en un grado Fahrenheit a presión atmosférica estándar. 
         .row.bg4.p-4
           h4 Termia (th)
@@ -72,7 +72,7 @@
           h4 Caloría (cal) y kilocaloría (kcal)
           p Aunque más comunes en el contexto de la alimentación, la caloría es una unidad de energía. Una kilocaloría (también conocida como “Caloría” con C mayúscula) equivale a 1000 calorías. En algunos procesos industriales que involucran calor, estas unidades pueden aparecer.     
         .row.bg5.p-4
-          h4 Megajoule (MJ) y Gigajoule (GJ): 
+          h4 Megajoule (MJ) y Gigajoule (GJ)
           p Son múltiplos del joule y se utilizan para medir grandes cantidades de energía, como el consumo energético a nivel industrial o nacional. (1 MJ = 10⁶ J, 1 GJ = 10⁹ J).
         
 
@@ -120,7 +120,7 @@
                   td Megajoule (MJ)
                   td 1 kWh = 3.6 MJ
                 tr.gris
-                  td #[b British Thermal Unit (BTU)]
+                  td #[b #[em British Thermal Unit ](BTU)]
                   td Joule (J)
                   td 1 BTU ≈ 1055 J
                 tr
@@ -162,7 +162,7 @@
           img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/Tema2/1.png', alt='tema1')
           .p-2.mb-4
             .row.justify-content-center
-              h4.text-center.bg7.p-1.col-lg-8 #[em International Table (IT)]
+              h4.text-center.bg7.p-1.col-lg-8 #[em International Table] (IT)
               p.text-center.izqtext  Esta sigla hace referencia a una tabla internacional comúnmente utilizada en ingeniería para definir unidades como la caloría y la termia. Pueden existir pequeñas variaciones según otras definiciones, por lo que es importante revisar la fuente según el contexto.
       
       .col-lg-4.col-md-6.mb-4
@@ -180,7 +180,7 @@
           .p-2.mb-4
             .row.justify-content-center
               h4.text-center.bg7.p-1.col-lg-12 Potencia y energía (conceptos distintos)
-              p.text-center.izqtext  El watt (W) representa potencia (cantidad de energía por unidad de tiempo). Para obtener energía, es necesario multiplicar la potencia por el tiempo (por ejemplo: W × h = Wh). Comprender esta diferencia es fundamental para el análisis del consumo energético.
+              p.text-center.izqtext  El #[em watt] (W) representa potencia (cantidad de energía por unidad de tiempo). Para obtener energía, es necesario multiplicar la potencia por el tiempo (por ejemplo: W × h = Wh). Comprender esta diferencia es fundamental para el análisis del consumo energético.
 
 
 

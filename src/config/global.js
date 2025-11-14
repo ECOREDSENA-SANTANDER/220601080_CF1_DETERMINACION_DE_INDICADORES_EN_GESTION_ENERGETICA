@@ -160,7 +160,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF1_83210166_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -284,11 +284,11 @@ export default {
         'Capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones.',
     },
     {
-      termino: 'Joule (J)',
+      termino: '<i>Joule</i> (J)',
       significado: 'Unidad básica de energía en el Sistema Internacional (SI).',
     },
     {
-      termino: 'Watt (W)',
+      termino: '<i>Watt</i> (W)',
       significado:
         'Unidad de potencia en el SI (energía por unidad de tiempo).',
     },

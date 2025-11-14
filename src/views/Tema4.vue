@@ -177,10 +177,10 @@
           .row(titulo="Formatos de registro manual")
             .col-md-12.mb-4.mb-md-0
               p Para variables que no se miden automáticamente, se pueden diseñar formatos sencillos para que el personal registre datos de forma regular (por ejemplo, horas de funcionamiento de equipos, lecturas de contadores).
-          .row(titulo="Sistemas de gestión de edificios (<i>BMS - Building Management Systems)</i>")
+          .row(titulo="Sistemas de gestión de edificios (BMS - <i>Building Management Systems)</i>")
             .col-md-12.mb-4.mb-md-0
               p En edificios grandes, estos sistemas pueden recopilar datos de consumo de electricidad, climatización, iluminación, etc., de forma automatizada.
-          .row(titulo="Sistemas de control de procesos industriales (<i>SCADA - Supervisory Control and Data Acquisition)</i>")
+          .row(titulo="Sistemas de control de procesos industriales (SCADA - <i>Supervisory Control and Data Acquisition)</i>")
             .col-md-12.mb-4.mb-md-0
               p En la industria, estos sistemas monitorizan y registran datos de consumo energético de maquinaria y procesos en tiempo real.
           .row(titulo="Contadores inteligentes")
