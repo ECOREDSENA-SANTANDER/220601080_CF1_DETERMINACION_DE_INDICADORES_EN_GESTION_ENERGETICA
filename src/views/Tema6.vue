@@ -116,7 +116,7 @@
               p Pueden contener información relevante sobre las horas de funcionamiento de los equipos y la cantidad de producto elaborado.
           .row(titulo="Métodos de recolección")
             .col-md-12.mb-4.mb-md-0
-              p la forma en que se recopilan los datos debe ser consistente y confiable. Esto puede implicar: 
+              p La forma en que se recopilan los datos debe ser consistente y confiable. Esto puede implicar: 
               ol.lista-ol--cuadro
                 li
                 .lista-ol--cuadro__vineta
@@ -383,7 +383,7 @@
       .py-4.py-md-5(titulo="<i>Benchmarking</i> interno " :icono="require('@/assets/curso/Tema6/interno.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
-            h4 #[em Benchmarking] interno
+           
             ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-angle-right2
@@ -402,7 +402,7 @@
       .py-4.py-md-5(titulo="<i>Benchmarking</i> externo " :icono="require('@/assets/curso/Tema6/externo.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
-            h4 #[em Benchmarking] externo 
+          
             ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-angle-right2

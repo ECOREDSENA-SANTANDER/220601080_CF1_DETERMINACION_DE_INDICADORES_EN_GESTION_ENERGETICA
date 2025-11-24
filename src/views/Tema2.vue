@@ -20,15 +20,15 @@
           h3.bg2.py-2.w-card-text Unidades básicas del Sistema Internacional (SI) relacionadas con la energía (#[em joule, watt])
 
     TabsC.color-acento-contenido
-      .bg3.py-3.py-md-4(titulo="Joule (J)")
+      .bg3.py-3.py-md-4(titulo="<i>Joule</i> (J)")
         .row.align-items-center.justify-content-center
           .col-md-5.mb-3.col-10
             figure
               img(src='@/assets/curso/Tema2/img02.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.col-11
-            p El joule es la unidad fundamental de energía en el Sistema Internacional de Unidades (SI). Representa la cantidad de trabajo realizado cuando una fuerza de un newton desplaza un objeto a una distancia de un metro en la dirección de la fuerza. También se utiliza para medir el calor. 
+            p El #[em joule] es la unidad fundamental de energía en el Sistema Internacional de Unidades (SI). Representa la cantidad de trabajo realizado cuando una fuerza de un newton desplaza un objeto a una distancia de un metro en la dirección de la fuerza. También se utiliza para medir el calor. 
             h5 Ejemplo: 
-            p La energía cinética de un objeto en movimiento, la energía potencial almacenada en un resorte comprimido, o la cantidad de calor liberada en una reacción química se miden en joules.
+            p La energía cinética de un objeto en movimiento, la energía potencial almacenada en un resorte comprimido, o la cantidad de calor liberada en una reacción química se miden en #[em joules].
           
   
       
@@ -38,7 +38,7 @@
             figure
               img(src='@/assets/curso/Tema2/img03.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.col-11
-            p El #[em watt] es la unidad fundamental de potencia en el SI. La potencia es la tasa a la que se transfiere o se consume energía por unidad de tiempo. Un watt equivale a un joule por segundo (1 W = 1 J / s). 
+            p El #[em watt] es la unidad fundamental de potencia en el SI. La potencia es la tasa a la que se transfiere o se consume energía por unidad de tiempo. Un watt equivale a un #[em joule] por segundo (1 W = 1 J / s). 
             h5 Ejemplo: 
             p La potencia de una bombilla eléctrica (cuánta energía consume por segundo) se mide en #[em watt]. Un motor tiene una potencia nominal en #[em watt], indicando la tasa a la que puede realizar trabajo.
 
@@ -73,7 +73,7 @@
           p Aunque más comunes en el contexto de la alimentación, la caloría es una unidad de energía. Una kilocaloría (también conocida como “Caloría” con C mayúscula) equivale a 1000 calorías. En algunos procesos industriales que involucran calor, estas unidades pueden aparecer.     
         .row.bg5.p-4
           h4 Megajoule (MJ) y Gigajoule (GJ)
-          p Son múltiplos del joule y se utilizan para medir grandes cantidades de energía, como el consumo energético a nivel industrial o nacional. (1 MJ = 10⁶ J, 1 GJ = 10⁹ J).
+          p Son múltiplos del #[em joule] y se utilizan para medir grandes cantidades de energía, como el consumo energético a nivel industrial o nacional. (1 MJ = 10⁶ J, 1 GJ = 10⁹ J).
         
 
     .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
@@ -113,7 +113,7 @@
               tbody
                 tr.gris
                   td #[b Kilovatio - hora (kWh)]
-                  td Joule (J)
+                  td #[em Joule] (J)
                   td 1 kWh = 3.6 × 10⁶ J
                 tr
                   td #[b Kilovatio - hora (kWh)]
@@ -121,19 +121,19 @@
                   td 1 kWh = 3.6 MJ
                 tr.gris
                   td #[b #[em British Thermal Unit ](BTU)]
-                  td Joule (J)
+                  td #[em Joule] (J)
                   td 1 BTU ≈ 1055 J
                 tr
-                  td #[b Joule (J)]
+                  td #[b Joule] (J)
                   td Kilovatio - hora (kWh)
                   td 1 J ≈ 2.78 × 10⁻⁷ kWh
                 tr.gris
-                  td #[b Megajoule (MJ)]
+                  td #[b Megajoule] (MJ)
                   td Kilovatio - hora (kWh)
                   td 1 MJ ≈ 0.278 kWh
                 tr
                   td #[b Termia (th) (IT)]
-                  td Joule (J)
+                  td #[em Joule] (J)
                   td 1 th ≈ 4.187 × 10⁶ J
                 tr.gris
                   td #[b Termia (th) (IT)]
@@ -141,11 +141,11 @@
                   td 1 th ≈ 1.163 kWh
                 tr
                   td #[b Caloría (cal)]
-                  td Joule (J)
+                  td #[em Joule] (J)
                   td 1 cal ≈ 4.184 J
                 tr.gris
                   td #[b Kilocaloría (kcal)]
-                  td Joule (J)
+                  td #[em Joule] (J)
                   td 1 cal ≈ 4.184 J
                 tr
                   td #[b Kilocaloría (kcal)]
