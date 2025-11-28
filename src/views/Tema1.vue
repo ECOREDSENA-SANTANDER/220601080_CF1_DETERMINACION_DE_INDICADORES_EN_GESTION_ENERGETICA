@@ -34,7 +34,7 @@
                 .col-5.col-9
                   .bg-color.w-fit.px-4
                     h2 Energía primaria
-              p Se refiere a la energía que se encuentra en la naturaleza y no ha sido sometida a ningún proceso de conversión o transformación significativa. Ejemplos incluyen los combustibles fósiles (carbón, petróleo, gas natural), la energía solar, la energía eólica, la energía hidráulica (ríos, cascadas o presas), la energía geotérmica y la biomasa en su estado natural (leña). 
+              p Hace referencia a la energía que se obtiene directamente de la naturaleza y que no ha sido sometida a procesos de conversión ni de transformación significativa. Entre sus principales ejemplos se encuentran los combustibles fósiles (carbón, petróleo y gas natural), la energía solar, la energía eólica, la energía hidráulica (proveniente de ríos, cascadas o embalses), la energía geotérmica y la biomasa en su estado natural, como la leña.
 
 
       
@@ -243,17 +243,17 @@
       .subt2.mb-5(data-aos="fade")
         h3.mb-0 a. Energía solar
 
-      .row.justify-content-center.align-items-center.mb-3
-        .col-lg-5.bg10.p-4.mb-3
-          p La energía solar representa una de las fuentes más prometedoras dentro del conjunto de energías renovables, debido a su disponibilidad, bajo impacto ambiental y versatilidad de aplicaciones. Este tipo de energía aprovecha la radiación del sol para generar electricidad o calor, contribuyendo significativamente a la reducción de emisiones contaminantes y a la diversificación de la matriz energética. 
-        .col-lg-3.d-none.d-lg-block
-          img(src="@/assets/curso/Tema1/img03.svg")
-        .col-lg-4
+      .row.justify-content-center.mb-3
+        .col-lg-9.bg10.p-4.mb-4
           .row
-            .col-lg-3.mb-3.col-4
-              img(src="@/assets/curso/Tema1/img04.svg")
-            .col-lg-12
-              p A continuación, se detalla la energía solar fotovoltaica, una tecnología ampliamente utilizada para la conversión directa de la luz solar en electricidad.
+            .col-lg-1.col-3.mb-3.col-md-2
+              img(src="@/assets/curso/Tema1/img11.svg")
+            .col-lg-11
+              p La energía solar representa una de las fuentes más prometedoras dentro del conjunto de energías renovables, debido a su disponibilidad, bajo impacto ambiental y versatilidad de aplicaciones. Este tipo de energía aprovecha la radiación del sol para generar electricidad o calor, contribuyendo significativamente a la reducción de emisiones contaminantes y a la diversificación de la matriz energética. 
+        .col-lg-3.col-9.mb-3.col-md-6
+          img(src="@/assets/curso/Tema1/img10.svg")
+        .col-lg-12
+          p A continuación, se detalla la energía solar fotovoltaica, una tecnología ampliamente utilizada para la conversión directa de la luz solar en electricidad.
 
       .row.justify-content-center.align-items-center.mb-4(data-aos='fade-right')
         .col-lg-12

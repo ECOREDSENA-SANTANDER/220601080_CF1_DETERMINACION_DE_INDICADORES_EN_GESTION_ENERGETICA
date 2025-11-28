@@ -124,12 +124,12 @@
                 | #[b Lectura manual de contadores:] realizada a intervalos regulares (diario, semanal, mensual).
                 li
                 .lista-ol--cuadro__vineta
-                  span 1
+                  span 2
                 | #[b Recolección automática de datos:] a través de sistemas BMS, SCADA o contadores inteligentes.
 
                 li
                 .lista-ol--cuadro__vineta
-                  span 1
+                  span 3
                 | #[b Digitalización de facturas y registros:] para facilitar el análisis y el almacenamiento.
 
 

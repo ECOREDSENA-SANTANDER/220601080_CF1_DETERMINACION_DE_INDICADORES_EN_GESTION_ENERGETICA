@@ -177,49 +177,45 @@ export default {
   complementario: [
     {
       tema: 'Tipos y formas de energía',
-      referencia: 'Es Ciencia. (12 de septiembre 2021). Tipos de energía.',
+      referencia:
+        'Astraway. (2022, marzo 18). Tipos y formas de energía. La energía explicada: fuentes, tipos, propiedades, aplicaciones.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=boJpgNIY54Y&ab_channel=EsCiencia',
+      link: 'https://www.youtube.com/watch?v=iO7GUgcfJL8',
     },
     {
       tema: 'Unidades de medida de la energía',
       referencia:
-        'Academia Kaussal. (2 de septiembre de 2022). Unidades de medidas eléctricas. ¿Cuáles son las más utilizadas?',
+        'Clases Particulares en Ávila. (2023, septiembre 28). Magnitudes y unidades de medida y sus tipos.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=s9TLe_T9ICY&ab_channel=AcademiaKaussa',
+      link: 'https://www.youtube.com/watch?v=f_V5o9tfrhQ',
     },
     {
       tema: 'Conceptos fundamentales de eficiencia energética',
       referencia:
-        'BUSLeague H2020. (11 de enero de 2022). Eficiencia energética y ahorro de energía en las edificaciones: Conceptos básicos.',
+        'Agencia SE. (2013, marzo 11). ¿Qué es la eficiencia energética?',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=S5EQ8axnSmM&ab_channel=BUSLeagueH2020',
+      link: 'https://www.youtube.com/watch?v=_12eVyvbFCI',
     },
     {
       tema: 'Identificación de variables de consumo energético',
       referencia:
-        'Hsu, D. (2015). <i>Identifying key variables and interactions in statistical models of building energy consumption using regularization. Energy</i>, 83, 144–155.',
-      tipo: 'Artículo',
-      link:
-        'https://www.sciencedirect.com/science/article/pii/S0360544215001590 ',
+        'Tecnológico de Monterrey – Innovación Educativa. (2019, noviembre 8). Demanda y consumo de energía.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_fCNN6pxH8c',
     },
     {
       tema: 'Procesos consumidores de energía',
       referencia:
-        'Geociencias Tíncopa (Ciencia de la Tierra). (24 de junio de 2020).',
+        'COOPEGUANACASTE R.L. (2021, diciembre 2). ¿Cómo calcular el consumo de energía de mis artefactos eléctricos?',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=EJWx9Hndy5o&ab_channel=GeocienciasTincopa%28CienciasdelaTierra%29  ',
+      link: 'https://www.youtube.com/watch?v=nca2Lt-BS3U',
     },
     {
       tema: 'Caracterización del consumo energético',
       referencia:
-        'Sifuentes Godoy, D. A. (2022 de marzo de 2024). Caracterización del consumo energético. Análisis de datos.',
+        'Energies. (2018, diciembre 12). Caracterización energética. Parte 1',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=UT8yR_e-4wo&ab_channel=DavidAlejandroSifuentesGodoy ',
+      link: 'https://www.youtube.com/watch?v=eDNyV1ntUZg&t=26s',
     },
   ],
   glosario: [

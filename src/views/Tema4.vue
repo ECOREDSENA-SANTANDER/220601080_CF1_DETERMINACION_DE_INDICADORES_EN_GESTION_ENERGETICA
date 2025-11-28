@@ -150,7 +150,7 @@
         .col-lg-11
           .row.justify-content-around.align-items-center.mb-2.my-2
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/Tema4/pdf.svg")
+              img(src="@/assets/curso/Tema4/www.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -158,8 +158,8 @@
                   p.mb-0 Con el fin de ampliar y consolidar los conocimientos abordados, a continuación se presenta un documento complementario que profundiza en los aspectos clave del tema desarrollado.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.sciencedirect.com/science/article/pii/S0360544215001590" target="_blank")
-                    span Descargar
-                    i.fas.fa-download
+                    span Ir al sitio
+                    i.fas.fa-file-code
     separador
     #t_4_1.titulo-segundo.mb-5
       h2 4.1. Herramientas para el seguimiento y registro de datos de consumo
