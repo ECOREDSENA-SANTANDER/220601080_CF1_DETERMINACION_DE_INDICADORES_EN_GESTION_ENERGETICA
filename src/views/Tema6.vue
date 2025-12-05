@@ -260,21 +260,7 @@
 
     p Comprender estas tendencias y variaciones es fundamental para establecer expectativas realistas de consumo y para identificar desviaciones significativas.
     
-    .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
-      .row.justify-content-center.align-items-center
-        .col-lg-11
-          .row.justify-content-around.align-items-center.mb-2.my-2
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/Tema2/play.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Caracterización energética. Análisis de datos.
-                  p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=UT8yR_e-4wo&ab_channel=DavidAlejandroSifuentesGodoy" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-circle-play
+   
 
 
     separador

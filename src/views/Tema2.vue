@@ -76,21 +76,7 @@
           p Son múltiplos del #[em joule] y se utilizan para medir grandes cantidades de energía, como el consumo energético a nivel industrial o nacional. (1 MJ = 10⁶ J, 1 GJ = 10⁹ J).
         
 
-    .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
-      .row.justify-content-center.align-items-center
-        .col-lg-11
-          .row.justify-content-around.align-items-center.mb-2.my-2
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/Tema2/play.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Unidades de medidas electicas  ¿Cuáles son las más utilizadas?
-                  p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=s9TLe_T9ICY&ab_channel=AcademiaKaussal" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-circle-play
+
 
     separador
     #t_2_1.titulo-segundo.mb-5(data-aos="fade-up")

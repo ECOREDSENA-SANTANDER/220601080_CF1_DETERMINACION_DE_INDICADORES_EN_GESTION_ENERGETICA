@@ -84,21 +84,7 @@
          
 
 
-    .tarjeta.bgvideo.p-3.mb-0(data-aos="zoom-in-left")
-      .row.justify-content-center.align-items-center
-        .col-lg-11
-          .row.justify-content-around.align-items-center.mb-2.my-2
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/Tema2/play.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Eficiencia energética y ahorro de energía en las viviendas: conceptos básicos.
-                  p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=S5EQ8axnSmM&ab_channel=BUSLeagueH2020" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-circle-play
+    
 
     separador
     #t_3_1.titulo-segundo.mb-5(data-aos="fade-up")
@@ -108,20 +94,20 @@
     p.mb-4 ISO es una organización internacional no gubernamental e independiente que desarrolla y publica una amplia gama de normas internacionales para asegurar la calidad, seguridad y eficiencia de productos, servicios y sistemas. Su nombre proviene del griego “#[em isos]”, que significa “igual”, reflejando su objetivo de estandarización a nivel global. 
 
     .row.justify-content-center.mb-3
-      .col-lg-5.bg10.p-4.align-content-center.mb-4
+      .col-lg-9.bg10.p-4.align-content-center.mb-4
         p Fundada en 1947, ISO cuenta con representaciones de organismos de normalización de numerosos países y ha publicado miles de normas que abarcan prácticamente todos los sectores, desde la tecnología hasta la gestión de la calidad y la protección ambiental. Estas normas son voluntarias, pero su adopción facilita el comercio internacional, mejora la confianza del consumidor y promueve las mejores prácticas en diversas industrias.
-      .col-lg-3
+      .col-lg-3.mb-3.col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 26.
           span  Logotipo de ISO 
         figure
           img.mb-3(src='@/assets/curso/Tema3/fig28.svg', alt='Logotipo de la ISO (International Organization for Standardization). A la izquierda, aparece un globo con las letras “ISO” en grande dentro de un recuadro azul. A la derecha, el nombre completo de la organización escrito en inglés: International Organization for Standardization.')
         figcaption.des Fuente: Departamento de Consultoría, (2025).
-      .col-lg-4
+      .col-lg-12
         .row.align-items-center
-          .col-lg-3.mb-3.col-3
+          .col-lg-1.mb-3.col-3
             img(src='@/assets/curso/Tema3/img04.svg', alt='')
-          .col-lg-12
+          .col-lg-11
             p La ISO 50001 es una norma internacional desarrollada por la Organización Internacional de Normalización (ISO) que especifica los requisitos para establecer, implementar, mantener y mejorar un Sistema de Gestión de la Energía (SGEn). Su objetivo principal es permitir a las organizaciones seguir un enfoque sistemático para lograr la mejora continua de su desempeño energético, incluyendo la eficiencia energética, el uso y el consumo de energía.   
 
 

@@ -210,13 +210,6 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nca2Lt-BS3U',
     },
-    {
-      tema: 'Caracterización del consumo energético',
-      referencia:
-        'Energies. (2018, diciembre 12). Caracterización energética. Parte 1',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=eDNyV1ntUZg&t=26s',
-    },
   ],
   glosario: [
     {
@@ -292,8 +285,14 @@ export default {
   referencias: [
     {
       referencia:
-        'Banco Mundial. (2021). The little green data book 2021. Washington, DC: World Bank.',
+        'Banco Mundial. (2021). The little green data book 2021. World Bank.',
       link: '',
+    },
+    {
+      referencia:
+        'Bismarks, J. L. (2024). Instrumentos de medición electrónica y eléctrica. Electrónica Online.',
+      link:
+        'https://electronicaonline.net/electronica/instrumentos-de-medicion-electronica/',
     },
     {
       referencia:
@@ -312,18 +311,50 @@ export default {
     },
     {
       referencia:
-        'Cooremans, C. (2012). Energy efficiency benchmarking in companies: State of the art and further research directions. Applied Energy, 93, 372-381.',
+        'Cooremans, C. (2012). Energy efficiency benchmarking in companies: State of the art and further research directions. Applied Energy, 93, 372–381.',
       link: '',
     },
     {
       referencia:
-        'Ferreira, V. S., Pinheiro, C., Brito, S., & Cardoso, J. L. (2012). Energy consumption characterization in industrial facilities: A review. Energies, 5(12), 5433-5455.',
+        'Del Río Morales, Y. (2024). Cómo funciona una central geotérmica y cuáles son sus beneficios. AMIF.',
+      link:
+        'https://amif.mx/como-funciona-una-central-geotermica-y-cuales-son-sus-beneficios/',
+    },
+    {
+      referencia:
+        'Departamento de Consultoría. (2025). Qué son las normas ISO. GlobalSuite Solutions.',
+      link: 'https://www.globalsuitesolutions.com/es/que-son-normas-iso/',
+    },
+    {
+      referencia: 'EsCiencia. (2021). Tipos de energía. YouTube.',
+      link: 'https://www.youtube.com/watch?v=boJpgNIY54Y&ab_channel=EsCiencia',
+    },
+    {
+      referencia:
+        'Ferreira, V. S., Pinheiro, C., Brito, S., & Cardoso, J. L. (2012). Energy consumption characterization in industrial facilities: A review. Energies, 5(12), 5433–5455.',
       link: '',
+    },
+    {
+      referencia:
+        'Geociencias Tincopa – Ciencias de la Tierra. (2020). Procesos en gestión energética. YouTube.',
+      link:
+        'https://www.youtube.com/watch?v=EJWx9Hndy5o&ab_channel=GeocienciasTincopa',
+    },
+    {
+      referencia:
+        'Grupo de Investigación Xué & Semillero de Investigación Barión. (2020). Potencial energético eólico para la Región Central. Universidad Distrital Francisco José de Caldas / RAPE.',
+      link:
+        'https://regioncentralrape.gov.co/wp-content/uploads/2020/04/Potencial-eólico-Región-Central.pdf',
     },
     {
       referencia:
         'Harris, F. W., & McCaffer, R. (2013). Modern construction management (7th ed.). John Wiley & Sons.',
       link: '',
+    },
+    {
+      referencia:
+        'Hsu, D. (2015). Identificación de variables clave e interacciones en modelos estadísticos de consumo energético de edificios mediante regularización. Energy, 83, 144–155.',
+      link: 'https://doi.org/10.1016/j.energy.2015.02.017',
     },
     {
       referencia:
@@ -337,8 +368,12 @@ export default {
     },
     {
       referencia:
-        'Kolokotsa, D. (2011). Building energy consumption analysis. In Energy efficiency and renewable energy in buildings (pp. 1-28). Springer.',
+        'Kolokotsa, D. (2011). Building energy consumption analysis. En Energy efficiency and renewable energy in buildings (pp. 1–28). Springer.',
       link: '',
+    },
+    {
+      referencia: 'Maldonado, Y. (2021). Tipos de carbón. GeologíaWeb.',
+      link: 'https://geologiaweb.com/rocas/tipos-carbon/',
     },
     {
       referencia:
@@ -347,13 +382,42 @@ export default {
     },
     {
       referencia:
-        'Saidur, R., Rahim, N. A., & Hasanuzzaman, M. (2010). A review on energy efficiency and energy saving in industrial sector. Renewable and Sustainable Energy Reviews, 14(9), 2496-2509.',
+        'Rodríguez, M. (2016). ISO 50001: Sistema de gestión energética. Geoinnova.',
+      link:
+        'https://geoinnova.org/blog-territorio/iso-50001-sistema-de-gestion-energetica/',
+    },
+    {
+      referencia:
+        'Rodríguez Martínez, N. (2021). Del petróleo crudo a los combustibles (Parte I). ACMOR.',
+      link:
+        'https://acmor.org/publicaciones/del-petr-leo-crudo-a-los-combustibles-parte-i',
+    },
+    {
+      referencia:
+        'Saidur, R., Rahim, N. A., & Hasanuzzaman, M. (2010). A review on energy efficiency and energy saving in industrial sector. Renewable and Sustainable Energy Reviews, 14(9), 2496–2509.',
       link: '',
+    },
+    {
+      referencia:
+        'Seguí, P. (2025). Gas natural: Qué es, tipos, características y más | Super Guía! OVACEN.',
+      link: 'https://ovacen.com/gas-natural/',
     },
     {
       referencia:
         'Sovacool, B. K. (2021). Energy transitions: Global and national perspectives (2nd ed.). Routledge.',
       link: '',
+    },
+    {
+      referencia:
+        'United Nations General Assembly. (2015). La Asamblea General adopta la Agenda 2030 para el desarrollo sostenible.',
+      link:
+        'https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/',
+    },
+    {
+      referencia:
+        'Watt Watchers of Texas. (2024). Recursos energéticos primarios vs. secundarios.',
+      link:
+        'https://www.watt-watchers.com/recursos-energeticos-primarios-vs-secundarios/?lang=es',
     },
     {
       referencia:
