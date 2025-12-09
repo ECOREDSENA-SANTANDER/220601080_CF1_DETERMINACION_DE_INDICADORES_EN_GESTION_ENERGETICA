@@ -187,7 +187,7 @@ export default {
       referencia:
         'Clases Particulares en Ávila. (2023, septiembre 28). Magnitudes y unidades de medida y sus tipos.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=f_V5o9tfrhQ',
+      link: 'https://www.youtube.com/watch?v=60pT4Wh30G8',
     },
     {
       tema: 'Conceptos fundamentales de eficiencia energética',
