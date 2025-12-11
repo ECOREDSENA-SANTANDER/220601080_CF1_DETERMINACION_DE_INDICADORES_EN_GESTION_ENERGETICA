@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="252" viewBox="0 0 610 252">
+  <g id="Grupo_1103042" data-name="Grupo 1103042" transform="translate(-600 -7514.009)">
+    <rect id="Rectángulo_402127" data-name="Rectángulo 402127" width="610" height="252" rx="10" transform="translate(600 7514.009)" fill="#fff"/>
+    <path id="Trazado_882075" data-name="Trazado 882075" d="M174.309,17.08v90.31L210.6,128.6l36.3-21.217V17.076Z" transform="translate(761.145 7406.551) rotate(90)" fill="#923615"/>
+    <path id="Trazado_882079" data-name="Trazado 882079" d="M0,111.524V21.213L36.295,0l36.3,21.217v90.311Z" transform="translate(1187.652 7580.86) rotate(90)" fill="#b1e5ff"/>
+    <path id="Trazado_882077" data-name="Trazado 882077" d="M174.309,17.081V128.6l72.593,0V17.076Z" transform="translate(870.146 7406.551) rotate(90)" fill="#c3471c"/>
+    <path id="Trazado_882078" data-name="Trazado 882078" d="M174.309,17.081V128.6l72.593,0V17.076Z" transform="translate(981.673 7406.551) rotate(90)" fill="#f35923"/>
+    <path id="Trazado_882080" data-name="Trazado 882080" d="M174.309,17.081V128.6l72.593,0V17.076Z" transform="translate(1093.201 7406.551) rotate(90)" fill="#e0f4ff"/>
+    <text id="Extra_pesado" data-name="Extra
+pesado" transform="translate(695 7614.156)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.363" y="0">Extra</tspan><tspan x="-26.262" y="19">pesado</tspan></text>
+    <text id="Pesado" transform="translate(797.306 7623.656)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-26.918" y="0">Pesado</tspan></text>
+    <text id="_Mediano" data-name=" Mediano" transform="translate(908.833 7623.656)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-33.246" y="0" xml:space="preserve"> Mediano</tspan></text>
+    <text id="Clasificación_del_petróleo_crudo" data-name="Clasificación del petróleo crudo" transform="translate(914 7557.656)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-113.973" y="0">Clasificación del petróleo crudo</tspan></text>
+    <text id="Densidad_API" data-name="Densidad API" transform="translate(914 7726.212)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-48.41" y="0">Densidad API</tspan></text>
+    <text id="Ligero" transform="translate(1019 7623.656)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-22.645" y="0">Ligero</tspan></text>
+    <text id="Súper_ligero" data-name="Súper 
+ligero" transform="translate(1128.125 7614.156)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-23.133" y="0">Súper </tspan><tspan x="-20.434" y="19">ligero</tspan></text>
+    <text id="_10.0" data-name="10.0" transform="translate(737.051 7686.009)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-15.582" y="0">10.0</tspan></text>
+    <text id="_22.3" data-name="22.3" transform="translate(852.051 7686.009)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-15.582" y="0">22.3</tspan></text>
+    <text id="_31.1" data-name="31.1" transform="translate(967.051 7686.009)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-15.582" y="0">31.1</tspan></text>
+    <text id="_38.0" data-name="38.0" transform="translate(1076.051 7686.009)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-15.582" y="0">38.0</tspan></text>
+  </g>
+</svg>
